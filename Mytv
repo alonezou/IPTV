@@ -1,3 +1,4 @@
+
 全网央卫,#genre#
 CCTV1,http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
 CCTV2,http://39.135.138.59:18890/PLTV/88888910/224/3221225619/index.m3u8
@@ -510,6 +511,31 @@ Music Japan TV,p2p://147.135.39.171:9906/5f0a0feb000cf83464e4010f305d4981
 以下频道需,#genre#
 科学上网,#genre#
 Joy-台湾,#genre#
+Discovery|DMAX,https://cmt.mb13.cyou/uni/g/dmax-sd.m3u8
+法国时尚,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+中天新闻,tvbus://6bwLyETqFVQRVffwpoF2xFTiGRKqQ5y9Wrjab6973ErVkfV6FTbEgVoNHXwBS
+中天新闻（备）,p2p://0198.02686.cc:16871/5f2f9178000c4ec022496d33f280ef95.ts
+TVBS新闻,p2p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
+TVBS,tvbus://65qXnWpqWqgbrh5nhu8jE5eYgx5TcwFWCLSgHjkYip1quwX47T9se7J8peFbK
+TVBS（备）,p2p://0198.02686.cc:16871/5f2f921c0007177d224bec7d6634f95e.ts
+寰宇新闻台,tvbus://6JKuKpFKftPN5faMaHje6597pVufZ44XiP8oC8uGCmw12E2XX1VNho9cNnR2c
+寰宇新闻台（备）,p2p://0198.02686.cc:16871/5f37f9150000be1a431e27852b683e83.ts
+寰宇新闻二台,tvbus://5wxL2ywZEn7YoKudKyqbJtKaL2Qj3DL4wjjq5BQ7NQCjJoC2YKg21Xwz7tU27
+寰宇新闻二台（备）,p2p://0198.02686.cc:16871/5f37fc2300084aea432a1823161b739d.ts
+壹电视新闻台,tvbus://6VxQAotw4pWJEc6KG7vLj4amLjRtZov2tizb3Jo3CgfBgaahJsnreepQpWL7X
+壹电视新闻台（备）,p2p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts
+年代新闻,tvbus://644CvCRxBrPxB4nW7u4shAHTbuEaRKCcN1y39E6bX6bVSuALpZ7ZsPTzmsRMN
+年代新闻（备）,p2p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
+东森新闻,tvbus://5SiRxAgocLNdjGDhS3QsJVs8oKjwsDjHZBzVggh3Swv1AAoPzq6oDfa2ZMcDk
+东森新闻（备）,p2p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
+民视新闻台HD,p2p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
+民视新闻台HD（备）,p2p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
+三立新闻（备）,p2p://0198.02686.cc:16871/5d1a69ad0006fe8711bdc2b3f14f64be.ts
+三立新闻,tvbus://7GdvmGzuRdupgWZWAuE6YVqQrRT4xj4cKRttsyEY4aRtVRMSzC
+东森财经新闻,tvbus://5bY69cepoVBMLLDSy3mDoo8QBJQRmRvgEHqHiJayEqejKoS6Z47qRqjewb9TB
+东森财经新闻（备）,p2p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts
+非凡新闻,tvbus://6fFJfrc7GqviCHEg6jXkNAALyqTEdBbRkPFHePCnZCfEJ9Zzgcyd9Zu183Z9Q
+非凡新闻（备）, p2p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts
 爱尔达影剧台,tvbus://5PiEXTiszZht1CyoDx3ix3Ss9oa3hcVKpFRUu6tWQug3ctfERDVPd8J8YxfCx
 爱尔达影剧台（备）,p2p://0198.02686.cc:16871/5f2e4f610009a2011d5f42ab61370430.ts
 爱尔达综合台,tvbus://5TZyPk4BU14TfGgyVjqjFvhyWYmk5e4PqaxvYVtrq252qsiDv48a2zCPdNgdF
@@ -583,25 +609,6 @@ JET综合,p2p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
 靖天映画,tvbus://5Y2LJHzn8EExip1PfcGApZxJLg7qUzqWpf7NiWvencGEnBEe9db9pCd5TrpHc
 靖天映画（备）,p2p://0198.02686.cc:16871/5f2e6cb40009bc001dd1ceea1a1f90ab.ts
 三立综合台,p2p://0198.02686.cc:16871/5d1a69fa0007d2f011beefb295d4d371.ts
-壹电视新闻台,tvbus://6VxQAotw4pWJEc6KG7vLj4amLjRtZov2tizb3Jo3CgfBgaahJsnreepQpWL7X
-壹电视新闻台（备）,p2p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts
-年代新闻,tvbus://644CvCRxBrPxB4nW7u4shAHTbuEaRKCcN1y39E6bX6bVSuALpZ7ZsPTzmsRMN
-年代新闻（备）,p2p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
-东森新闻,tvbus://5SiRxAgocLNdjGDhS3QsJVs8oKjwsDjHZBzVggh3Swv1AAoPzq6oDfa2ZMcDk
-东森新闻（备）,p2p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
-中天新闻,tvbus://6bwLyETqFVQRVffwpoF2xFTiGRKqQ5y9Wrjab6973ErVkfV6FTbEgVoNHXwBS
-中天新闻（备）,p2p://0198.02686.cc:16871/5f2f9178000c4ec022496d33f280ef95.ts
-民视新闻台HD,p2p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
-民视新闻台HD（备）,p2p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
-三立新闻（备）,p2p://0198.02686.cc:16871/5d1a69ad0006fe8711bdc2b3f14f64be.ts
-三立新闻,tvbus://7GdvmGzuRdupgWZWAuE6YVqQrRT4xj4cKRttsyEY4aRtVRMSzC
-TVBS新闻,p2p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
-TVBS,tvbus://65qXnWpqWqgbrh5nhu8jE5eYgx5TcwFWCLSgHjkYip1quwX47T9se7J8peFbK
-TVBS（备）,p2p://0198.02686.cc:16871/5f2f921c0007177d224bec7d6634f95e.ts
-东森财经新闻,tvbus://5bY69cepoVBMLLDSy3mDoo8QBJQRmRvgEHqHiJayEqejKoS6Z47qRqjewb9TB
-东森财经新闻（备）,p2p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts
-非凡新闻,tvbus://6fFJfrc7GqviCHEg6jXkNAALyqTEdBbRkPFHePCnZCfEJ9Zzgcyd9Zu183Z9Q
-非凡新闻（备）, p2p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts
 天映经典,tvbus://6HbVAkQXXj4SAXKpyDt18vqEHoHVkjNQ4gSQNVtgWeBJ72VT7Yc2npgAr2WUY
 天映经典（备）,p2p://0198.02686.cc:16871/5f2f935d000124722250d0dff4066d74.ts
 卫视电影台,tvbus://5au5QAR4QVNUXum4PLi7zF3TyoxTfWv6cWRboJuXkkZSaNcYAGdNHjccAxVUQ
@@ -703,8 +710,6 @@ EYE_TV戏剧台（备）,p2p://0198.02686.cc:16871/5f37d8dc00062aca42a04a40e5f66
 爱尔达体育3台（备）,p2p://0198.02686.cc:16871/5f37fe5f000e039f4332d3fa26419fbb.ts
 高尔夫美国,tvbus://5keAFkcojbKfrBYtjrFtVibNP6oZN2BZt3wHdVnbdAw4muZGgFhiFxJeSWqeG
 高尔夫美国（备）,p2p://0198.02686.cc:16871/5f37fdea0002ace04331080bb8277c60.ts
-寰宇新闻二台,tvbus://5wxL2ywZEn7YoKudKyqbJtKaL2Qj3DL4wjjq5BQ7NQCjJoC2YKg21Xwz7tU27
-寰宇新闻二台（备）,p2p://0198.02686.cc:16871/5f37fc2300084aea432a1823161b739d.ts
 民视第一台,tvbus://6ednGj6km9MMnYffReGPEqn5nkuGF9JeeS8KYs1FfWdZD7TNDfeeHbjzWTS37
 民视台湾台,tvbus://5qUwVXwdT4DdpcNKXRi77GdzH9Gb2ZQD5WWueA5WkZ7kpuvmC53oDoSCDVRTd
 中视新闻,tvbus://5R9W8Pyu2dnVpue6Jsfx74SJwa1Vn2VtWxuDHCWihBMMFkrCMeMr7Wz1hdFdQ
@@ -720,8 +725,6 @@ CatchPlay电影台,tvbus://5KkNqoQ2jK5w7Z4RqFLiDppxWv29gctUDiNm2XTMwuZertsfjNARU
 CatchPlay电影台（备）,p2p://0198.02686.cc:16871/5f37c90a00050b3042627da756dbe5ab.ts
 探索亚洲,tvbus://67zjm3ScZsgzCy1q6td5sR6NRSskv1cj3fUwEyZbqL84VAtQTYRik6ukRJacM
 探索亚洲（备）,p2p://0198.02686.cc:16871/5f37d15a000efba84282f8b2e586739c.ts
-寰宇新闻台,tvbus://6JKuKpFKftPN5faMaHje6597pVufZ44XiP8oC8uGCmw12E2XX1VNho9cNnR2c
-寰宇新闻台（备）,p2p://0198.02686.cc:16871/5f37f9150000be1a431e27852b683e83.ts
 博斯运动II,p2p://0198.02686.cc:16871/5f1c2daf000ac43205d45c60d913856d.ts
 博斯运动II（备）,p2p://0198.02686.cc:16871/5f37ddc7000306b142b37f6a2831ba0c.ts
 博斯运动,tvbus://5PWUSk5i67uQNx1TYcu9KANMCLe6CtTztGSgXAdnqqDpNX7YkVjUvscJDtYYo
@@ -1670,4 +1673,3 @@ BTV,tvbus://5h9w6vNdqwYq2fYGiqUA5YrhDFpVJyXAo4aYxGZYzkJbSsTNDw
 TVK,tvbus://6LFV9jCFVFck2XnyL5Te9gMMez7G4QFBKvC17bHobTSJG7NFaqhvN37wTyVrE
 CTV9,tvbus://62sKmLopCUohviRGrtnv2sD37k62ba8TmDVoNDS5JbxtXyyCt8Gxq1Q2bBnDJ
 bayontv,tvbus://3sr96jjB4TWbEokjVpwWNViYEAafKhkKwFeMQx9uEji1ygcBgjk7HniLjTb3F
-
