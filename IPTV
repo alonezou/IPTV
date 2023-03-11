@@ -794,6 +794,43 @@ http://www.372583307.top:4022/udp/233.50.201.176:5140
 #EXTINF:-1 group-title="浙江",杭州青少体育
 http://www.372583307.top:4022/udp/233.50.201.177:5140
 
+#EXTINF:-1 group-title="江西",江西卫视
+http://223.109.33.33/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
+#EXTINF:-1 group-title="江西",江西卫视
+http://121.51.249.73/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
+#EXTINF:-1 group-title="江西",江西都市
+http://223.109.33.33/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8
+#EXTINF:-1 group-title="江西",江西都市
+http://121.51.249.73/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8
+#EXTINF:-1 group-title="江西",江西经济生活
+http://223.109.33.33/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8
+#EXTINF:-1 group-title="江西",江西经济生活
+http://121.51.249.7/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8
+#EXTINF:-1 group-title="江西",江西影视旅游
+http://223.109.33.33/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv4.m3u8
+#EXTINF:-1 group-title="江西",江西影视旅游
+http://121.51.249.73/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv4.m3u8
+#EXTINF:-1 group-title="江西",江西公共农业
+http://223.109.33.33/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8
+#EXTINF:-1 group-title="江西",江西公共农业
+http://121.51.249.73/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8
+#EXTINF:-1 group-title="江西",江西少儿
+http://223.109.33.33/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8
+#EXTINF:-1 group-title="江西",江西少儿
+http://121.51.249.73/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8
+#EXTINF:-1 group-title="江西",江西新闻
+http://223.109.33.33/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8
+#EXTINF:-1 group-title="江西",江西新闻
+http://121.51.249.73/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8
+#EXTINF:-1 group-title="江西",江西移动
+http://223.109.33.33/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8
+#EXTINF:-1 group-title="江西",江西移动
+http://121.51.249.7/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8
+#EXTINF:-1 group-title="江西",江西风尚购物
+http://223.109.33.33/yun-live.jxtvcn.com.cn/live-jxtv/tv_fsgw.m3u8
+#EXTINF:-1 group-title="江西",江西风尚购物
+http://121.51.249.73/yun-live.jxtvcn.com.cn/live-jxtv/tv_fsgw.m3u8
+
 
 #EXTINF:-1 -------------------------------------------分割线---------------------------------------------------------
 
