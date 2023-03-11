@@ -1,3 +1,4 @@
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/virginmedia.com.epg.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",ITV HD
 http://iptvbudur.xyz:8080/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/199431
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",ITV
