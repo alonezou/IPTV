@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/virginmedia.com.epg.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz"
 #EXTINF:-1 logo="http://i.imgur.com/e31o5gw.png" tvg-id="7fb6ed25058271a8432e8aae1586e460",KBS1
 http://59.23.109.44:9981/stream/channelid/636335743?ticket=CE5222CB12AEABD37430C4B5107651F8D8DB403D&profile=pass
 #EXTINF:-1 ,kbs1
