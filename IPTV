@@ -202,9 +202,18 @@ http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/defa
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="" group-title="中国教育",CETV4 
 
 #EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png" group-title="其他",中国教育-1
+http://txycetvbl.centv.cn/cetv1/ypd.m3u8
+#EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png" group-title="其他",中国教育-1
+https://txycsbl.centv.cn/zb/0628cetv1.m3u8
+
+#EXTINF:-1,tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://epg.112114.xyz/logo/中国教育2台.png" group-title="其他",中国教育-2
+http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
+
+#EXTINF:-1,tvg-id="中国教育3台" tvg-name="中国教育3台" tvg-logo="https://epg.112114.xyz/logo/中国教育3台.png" group-title="其他",中国教育-3
+http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
 
 #EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png" group-title="其他",中国教育-4 
-
+http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 
 
 #EXTINF:-1 ---------------------------------------分割线---------------------------------------------------------------
@@ -314,12 +323,13 @@ http://203.205.137.125/liveplay-kk.rtxapp.com/live/program/live/ynwshd8m/8000000
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
 http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/ynwshd8m/8000000/mnf.m3u8
 
-#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
-http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/hainanSD/__op/default/__f/index.m3u8
+
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视 
 http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
 http://223.109.53.39/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
+http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/hainanSD/__op/default/__f/index.m3u8
 
 #EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视
 http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/hubeiSD/__op/default/__f/index.m3u8
@@ -385,9 +395,11 @@ http://203.205.137.190/liveplay-kk.rtxapp.com/live/program/live/hnwshd8m/8000000
 http://203.205.137.125/liveplay-kk.rtxapp.com/live/program/live/hnwshd8m/8000000/mnf.m3u8
 
 #EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视
+http://39.135.138.60:18890/PLTV/88888910/224/3221225727/index.m3u8
+#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视
 http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/qinghaiSD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
-
+http://stream.qhbtv.com/qhws/sd/live.m3u8
 
 #EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.112114.xyz/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
 http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/ningxia/__op/default/__f/index.m3u8
@@ -418,9 +430,9 @@ http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/xinjiangSD/__op/
 
 
 #EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
-http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/xizangSD/__op/default/__f/index.m3u8
+https://tv.vtibet.cn/live/EfgSmE4jCTBtvchannel3.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
-
+http://118.24.227.124/bytedance.live.cqccn.com/__cl/cg:live/__c/xizangSD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
 
 
@@ -914,9 +926,9 @@ http://120.84.96.23:808/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
 http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
-
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
 http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
+
 
 
 #EXTINF:-1 tvg-name="凤凰电影" group-title="港澳台", 凤凰电影
@@ -932,25 +944,25 @@ http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
 http://2023.stream-link.org/playlist/tvb_jade.flv
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
-
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
-
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台海外版(普通话简体)
-
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
-
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
-
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
 http://r.jdshipin.com/62WM7
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
 http://r.jdshipin.com/n90gt
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
+http://r.jdshipin.com/qClQf
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
+http://23.237.10.66:16106
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
+
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
+
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
+
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠
-http://r.jdshipin.com/qClQf
+
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
-http://23.237.10.66:16106
+
 
 #EXTINF:-1 tvg-id="TVB华丽台" tvg-name="TVB华丽台" tvg-logo="https://epg.112114.xyz/logo/TVB" group-title="港澳台",TVB华丽台
 http://2022.stream-link.org/playlist/astro_jade.flv
@@ -1233,8 +1245,8 @@ http://2023.stream-link.org/playlist/cti_news
 
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台" group-title="港澳台",中天新闻台
 
-
-
+#EXTINF:-1 tvg-id="中天综合台" tvg-name="中天综合台" tvg-logo="https://epg.112114.xyz/logo/中天综合台" group-title="港澳台",中天综合台
+http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
 #EXTINF:-1 tvg-id="中天综合台" tvg-name="中天综合台" tvg-logo="https://epg.112114.xyz/logo/中天综合台" group-title="港澳台",中天综合台
 http://2023.stream-link.org/playlist/cti_zh.flv
 #EXTINF:-1 tvg-id="中天综合台" tvg-name="中天综合台" tvg-logo="https://epg.112114.xyz/logo/中天综合台" group-title="港澳台",中天综合台
@@ -2584,9 +2596,9 @@ http://tribaliptv.com:8080/Gustavo/123456/12401
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/C8A5D94F-4F16-404B-A7CD-7D72B7A60C78.jpeg" group-title="4K频道",ODISEA UHD 4K
 http://tribaliptv.com:8080/Gustavo/123456/5195
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/eleven.png" group-title="4K频道",Eleven Sports 1 4K
-http://cdnx1.plusx.tv:8880/325es4k/mono.m3u8?token=cb776083b1e1b6f9bb2222
+http://61.221.81.93:8078/hls/25/80/esport.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/eleven.png" group-title="4K频道",Eleven Sports 1 4K备
-http://4iptv.xyz:8080/1smart15209/jg8Gd5HqDRBE/154014
+http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EA0DA749-7DA9-420C-A40A-EE49E75B1C37.png" group-title="4K频道",Sport5 4k
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/3CE30C63-5731-400F-B187-3B0AE5BD4100.jpeg" group-title="4K频道",Матч 4k
@@ -2907,7 +2919,7 @@ http://84.17.61.203:8086/udp/229.157.5.219:1234
 
 #EXTINF:-1 -------------------------------------------分割线---------------------------------------------------------
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="韩国",MBC HD
-http://pull-l3-cny.douyincdn.com/live/d10b659225b3738937372b8835b94f1c.m3u8
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="韩国",SBS HD
 http://pull-l3-cny.douyincdn.com/live/4f444d2b71e8fbab0a8802b9fa23ea5b.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="韩国",MBC HD
@@ -2977,12 +2989,26 @@ http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 #EXTINF:-1 -------------------------------------------分割线---------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/240px-NHK_World.svg.png" group-title="日本",NHK WORLD TV
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/240px-NHK_World.svg.png" group-title="日本",NHK Chinese Vision
-#EXTINF:-1 group-title="日本",CGNTV Japan[1280*720]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/240px-NHK_World.svg.png" group-title="日本",NHK WORLD TV
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
-#EXTINF:-1 group-title="日本",日本购物1[1280*720]
-http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1 group-title="日本",群马テレビ
+https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 group-title="日本",ウェザーニュース[1280*720]
-http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+https://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1 group-title="日本",Tokyo MX 1[1280*720]
+https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+#EXTINF:-1 group-title="日本",Tokyo MX 2[1280*720]
+https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+#EXTINF:-1 group-title="日本",MX Live[1280*720]
+https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+#EXTINF:-1 group-title="日本",Weather News[1280*720]
+https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+#EXTINF:-1 group-title="日本",WeatherNews[1280*720]
+https://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 group-title="日本",QVC Japan[1280*720]
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 group-title="日本",Shop Channel[1280*720]
+https://stream3.shopch.jp/HLS/master.m3u8
 
 
