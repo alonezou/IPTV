@@ -115,6 +115,8 @@ http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=94168
 http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941687
 #EXTINF:-1 tvg-id="63706" tvg-name="Channel NewsAsia HD" tvg-logo="https://upload.112114.xyz/logo/CHANNELNEWSASIA.png" group-title="新加坡",CNA
 http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941688
+#EXTINF:-1 tvg-id="63706" tvg-name="Channel NewsAsia HD" tvg-logo="https://upload.112114.xyz/logo/CHANNELNEWSASIA.png" group-title="新加坡",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="63743" tvg-name="CNBC HD" tvg-logo="https://upload.112114.xyz/logo/CNBC%20Asia%20Channel.png" group-title="新加坡",CNBC
 http://royx.xyz:80/play/live.php?mac=00:1a:79:56:77:6c&extension=ts&stream=941689
 #EXTINF:-1 tvg-id="63744" tvg-name="Bloomberg Television HD" tvg-logo="https://upload.112114.xyz/logo/Bloomberg%20TV.png" group-title="新加坡",Bloomberg
