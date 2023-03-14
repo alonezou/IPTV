@@ -67,8 +67,6 @@ http://140.238.6.140:8881/stream/channelid/1333115113?profile=pass
 http://59.23.109.44:9981/stream/channelid/1083546416?ticket=8C43238E4905801300B0C258E267571B29B39A36&profile=pass
 #EXTINF:-1 ,YTN
 http://cdn-us-154.cloudrsst.com/live/ytn_720/playlist.m3u8
-#EXTINF:-1 ,YTN
-http://hls.ye23.vip/hk/ytn.php/.m3u8
 #EXTINF:-1 ,YTN2
 http://hls.ye23.vip/hk/ytn2.php/.m3u8
 #EXTINF:-1 ,YTN사이언스
@@ -93,22 +91,6 @@ http://cdn-us-154.cloudrsst.com/live/wowtv_720/playlist.m3u8
 http://cdn-us-154.cloudrsst.com/live/tvchosun_720/playlist.m3u8
 #EXTINF:-1 ,국방TV
 http://140.238.6.140:8881/stream/channelid/1598996616?profile=pass
-#EXTINF:-1 ,HCN 경북방송
-http://edge4.hcnmobile.tv/etv/phddmckyunngbuk/playlist.m3u8
-#EXTINF:-1 ,HCN 부산방송
-http://edge4.hcnmobile.tv/etv/phddmcbusan/playlist.m3u8
-#EXTINF:-1 ,HCN 관악방송
-http://edge4.hcnmobile.tv/etv/phd1399/chunklist_w1062628074.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2VkZ2U0Lmhjbm1vYmlsZS50di9ldHYvcGhkMTM5OS9wbGF5bGlzdC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjQyNDg0NTQyfX19XX0_&Signature=Jcr4z5%7EcLUY8kZcPP9cAi0nFLfA6wlYJX1bY%7EdAoHOmoIOjTeGFq76bv-NDu9eM7v%7E2t7jC5LqYiMa6zBm7RxEl-dYJXA620Te3X2q%7EBv5vI7SXk1L6x5m9y%7EEsvDaVMw3sCUgrxJpRm16IWhJD8BLvk38J-wGy7spkzB0DzurI9cNUtXPBaq7OYa%7Ec7aIYB3RRcsa02pv23Kc4GyOf6lHhwgqbdB33SXA3k48HNKnXE4u4fr7oJYudkUVfxkREIklj4lEoBEuRuMHxF1GyYwedQUUS9aig0nCOn00Lmi%7EWeB%7E72MSe%7EZ-aCtAw2iIVh0XVLxCus%7E52Oh9peGPGCHA__&Key-Pair-Id=APKAJDDOC33A6I654PKA
-#EXTINF:-1 ,HCN 동작방송
-http://edge4.hcnmobile.tv/etv/phd1397/chunklist_w532555429.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2VkZ2U0Lmhjbm1vYmlsZS50di9ldHYvcGhkMTM5Ny9wbGF5bGlzdC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjQyNDg0NTAxfX19XX0_&Signature=FIdPYrIcbKkCbB%7Eoqh5KBOlhPqumaChm-nr-Bvh9%7EEwP4Jf5NVbPX2oTWDYU2btv2XpJilQUjo2irVgEV9Fh8jQizMZlBu79Hpwm0tfEIjRnjpGbfFNHxlQOhITSr-F5OlUlOxcmy8QFHEhDwcbBN%7EHmzHmVriB%7EKHN8TytTaJXUYXTSSqi%7EikQWPWwg9Y9Dv54YnqpOeJNDSHaKkEfufg25zcshPSknPTmGPz5AXBq8TgDR1n7GSiqsyac6MYcSR9gFgQX3XnsKXx160RW5Xi0vyEulrzldeLlaTmEW5zmHVJeX1kEtx0ZnXUYenL6qpeyB6lRbL0oJo-riBa%7Enrg__&Key-Pair-Id=APKAJDDOC33A6I654PKA
-#EXTINF:-1 ,HCN 새로넷방송
-http://edge3.hcnmobile.tv/etv/phddmcsaronet/playlist.m3u8
-#EXTINF:-1 ,HCN 충북방송
-http://edge3.hcnmobile.tv/etv/phddmcchungbuk/playlist.m3u8
-#EXTINF:-1 ,HCN 금호방송
-http://edge3.hcnmobile.tv//etv/phddmckumho/playlist.m3u8
-#EXTINF:-1 ,HCN 서초방송
-http://edge3.hcnmobile.tv//etv/phd745/chunklist_w585054294.m3u8?%20Policy=eyJTdGFOZW1IbnQiOlt7lUlc291cmNIljoiaHROcDovL2VkZ2UzLmhjbm+1vYmlsZS50di9ldHYvcGhkNzc4L3BsYXlsa+XNOLm0zdTgiLCJDb25kaXRpb24iOnsiRGFOZUxlc3NUaGFuljp7ikFXUzpFcG9jaFRpbWUiOjE2Mjk20DYOMDh9X1dfQ_+-&Signature=UVGV1JG2SVxLefHUTSiFamnilwaTQGsXFfr5gtAwQ-OWKbAnXMtgDosDx15r034p4VpexO6LK4axQY%5D+1+AB5piRGEDFn3zVISOIUI87zyEwTaqG7ncOk-n9xD1KVodGu2yk+5C4Aq43bFOWZrPAikJUrZ7142zWOyxmelhLRwcH8bwVxvZH%5D39gTMyBTRSoe9EnuhYUU3Uom84APZxvexKXmoDruOE+ih6LOitMBTEKjsfNxZ62QHRLDRQUBPhyllxWTVC8SSdwLTMvaPGohHCLPehE36aTKjEka8djr%2FOJLP7Y-+V13UIH6-OcurSnan-MzSLDk6bx01kJBe6705wYMw-&Key-Pair-ld-APKAJDDOC33A6l654PKA
 #EXTINF:-1 ,BTV 전북방송
 http://api.wecandeo.com/live/default/castAll.m3u8?k=qrhwABaceg5AwipR4RMgY7wipfTRmXjGNPTmGxNEUisEXiiy8zPZAQLccUp2WiiheWZZa60e8bOR4eKJP2vbBiiQKeM113Uoisipml1gV9PkQWysGDpaMiiYZZlOotAieie
 #EXTINF:-1 ,BTV 낙동방송
@@ -153,25 +135,6 @@ http://140.238.6.140:8881/stream/channelid/1142717604?profile=pass
 http://140.238.6.140:8881/stream/channelid/84842356?profile=pass
 #EXTINF:-1 ,스타일 TV
 http://140.238.6.140:8881/stream/channelid/505509983?profile=pass
-#EXTINF:-1 ,신의 선물 - 14일 TV
-http://140.238.6.140:8881/stream/channelid/1774864522?profile=pass
 #EXTINF:-1 ,연합뉴스TV
 http://140.238.6.140:8881/stream/channelid/708812578?profile=pass
-#EXTINF:-1 ,올댓뮤직
-http://140.238.6.140:8881/stream/channelid/669437620?profile=pass
-#EXTINF:-1 ,웬만해선 그들을 막을 수 없다 TV
-http://140.238.6.140:8881/stream/channelid/1343211065?profile=pass
-#EXTINF:-1 ,표준FM
-http://140.238.6.140:8881/stream/channelid/831166661?profile=pass
-#EXTINF:-1 ,LOVE FM
-http://140.238.6.140:8881/stream/channelid/1319968335?profile=pass
-#EXTINF:-1 ,POWER FM
-http://140.238.6.140:8881/stream/channelid/1999580574?profile=pass
-#EXTINF:-1 ,CBS 음악FM
-http://140.238.6.140:8881/stream/channelid/266289748?profile=pass
-#EXTINF:-1 ,CBS 표준FM
-http://140.238.6.140:8881/stream/channelid/1402279375?profile=pass
-#EXTINF:-1 ,FM4U
-http://140.238.6.140:8881/stream/channelid/1575421457?profile=pass
-#EXTINF:-1 ,GorealraM
-http://140.238.6.140:8881/stream/channelid/118705760?profile=pass
+
