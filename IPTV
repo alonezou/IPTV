@@ -857,10 +857,14 @@ http://121.51.249.73/yun-live.jxtvcn.com.cn/live-jxtv/tv_fsgw.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",香港开电视
 http://2022.stream-link.org/playlist/hoy_tv
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",香港开电视
+http://2022.stream-link.org/playlist/hoy_tv.ts
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
-#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",香港开电视
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",香港开电视资讯
 http://2022.stream-link.org/playlist/hoy_info
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",香港开电视资讯
+http://2022.stream-link.org/playlist/hoy_info.ts
 
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
@@ -1069,6 +1073,8 @@ http://radius.8866.org:800/hls/82/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.jpg.cm/2021/09/14/IsQ2QS.png" group-title="港澳台",无线新闻
 
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://www.hualigs.cn/image/61569dc0de070.jpg" group-title="港澳台",无线财经资讯台
+http://2022.stream-link.org/playlist/tvb_finance.ts#https://pull-l3-cny.douyincdn.com/live/stream-112175tvb2202212212.m3u8
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://www.hualigs.cn/image/61569dc0de070.jpg" group-title="港澳台",无线财经资讯台
 http://2023.stream-link.org/playlist/tvb_finance
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://www.hualigs.cn/image/61569dc0de070.jpg" group-title="港澳台",无线财经资讯台 
 http://radius.8866.org:800/hls/83/index.m3u8
@@ -1176,6 +1182,7 @@ https://pull-l3-cny.douyincdn.com/live/4480903e93e7bf6ddde637e903c423a0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",香港面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rb.gy/opr7sq" group-title="港澳台",创世电视
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",now爆谷星影台
