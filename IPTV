@@ -862,7 +862,7 @@ http://2022.stream-link.org/playlist/hoy_tv.ts
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",香港开电视资讯
-http://2022.stream-link.org/playlist/hoy_info
+http://2022.stream-link.org/playlist/hoy_info.ts
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",香港开电视资讯
 http://2022.stream-link.org/playlist/hoy_info.ts
 
@@ -1072,7 +1072,7 @@ http://radius.8866.org:800/hls/82/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.jpg.cm/2021/09/14/IsQ2QS.png" group-title="港澳台",无线新闻
 
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://www.hualigs.cn/image/61569dc0de070.jpg" group-title="港澳台",无线财经资讯台
-http://2022.stream-link.org/playlist/tvb_finance.ts#https://pull-l3-cny.douyincdn.com/live/stream-112175tvb2202212212.m3u8
+http://2022.stream-link.org/playlist/tvb_finance.ts
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://www.hualigs.cn/image/61569dc0de070.jpg" group-title="港澳台",无线财经资讯台
 http://2023.stream-link.org/playlist/tvb_finance
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://www.hualigs.cn/image/61569dc0de070.jpg" group-title="港澳台",无线财经资讯台 
@@ -1090,7 +1090,7 @@ http://120.84.96.89:808/hls/86/index.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://www.hualigs.cn/image/61569dc0de070.jpg" group-title="港澳台",无线财经资讯台
 http://120.84.96.108:808/hls/86/index.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://www.hualigs.cn/image/61569dc0de070.jpg" group-title="港澳台",无线财经资讯台
-http://120.84.96.113:808/hls/86/index.m3u8
+https://pull-l3-cny.douyincdn.com/live/stream-112175tvb2202212212.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6155c0c532635.jpg" group-title="港澳台",astor AOD HD
 
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2 
@@ -1127,7 +1127,7 @@ http://radius.8866.org:800/hls/85/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61569ef247820.jpg" group-title="港澳台",RTHK31 
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61569ef247820.jpg" group-title="港澳台",RTHK31 
-http://2022.stream-link.org/playlist/rthk_31
+http://2022.stream-link.org/playlist/rthk_31.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61569ef247820.jpg" group-title="港澳台",RTHK31 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61569ef247820.jpg" group-title="港澳台",RTHK31 
@@ -1140,7 +1140,7 @@ http://2022.stream-link.org/playlist/rthk_31
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/320px-RTHK_TV_32.svg.png" group-title="港澳台",RHK32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61569ef24bd98.jpg" group-title="港澳台",RTHK32
-http://2022.stream-link.org/playlist/rthk_32
+http://2022.stream-link.org/playlist/rthk_32.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61569ef24bd98.jpg" group-title="港澳台",RTHK32
 http://c-leung.homeip.net:8013/bysid/32
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61569ef24bd98.jpg" group-title="港澳台",RTHK32
