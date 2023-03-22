@@ -854,20 +854,19 @@ http://121.51.249.73/yun-live.jxtvcn.com.cn/live-jxtv/tv_fsgw.m3u8
 
 
 #EXTINF:-1 -------------------------------------------分割线---------------------------------------------------------
-#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",香港开电视
-http://2022.stream-link.org/playlist/hoy_tv
+#EXTINF:-1 tvg-id="7118" tvg-name="香港開電視" tvg-logo="http://or00.stream-link.org/tv_logo/hoy-tv.png" group-title="奇妙電視",香港開電視
+http://2022.stream-link.org/playlist/hoy_tv.ts
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",香港开电视
 http://2022.stream-link.org/playlist/hoy_tv.ts
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
-#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",香港开电视资讯
-http://2022.stream-link.org/playlist/hoy_info.ts
-#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",香港开电视资讯
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视资讯台" tvg-logo="http://or00.stream-link.org/tv_logo/hoy-info.png" group-title="港澳台",香港开电视资讯台
 http://2022.stream-link.org/playlist/hoy_info.ts
 
+
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
-http://2022.stream-link.org/playlist/phtv_info.ts
+
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
 http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
@@ -895,7 +894,7 @@ http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8?
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
 http://171.109.225.202:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
-
+http://2022.stream-link.org/playlist/phtv_info.ts
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
 
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
@@ -962,7 +961,7 @@ https://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台
 http://23.237.10.66:16106
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
-http://2023.stream-link.org/playlist/tvb_jade.flv
+http://2022.stream-link.org/playlist/tvb_jade.ts
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
 http://r.jdshipin.com/62WM7
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
@@ -1173,9 +1172,6 @@ http://2022.stream-link.org/playlist/now_sports.ts
 
 #EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳台",香港卫视文旅
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳台", 香港卫视文旅
-https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",天映频道
 
@@ -1232,8 +1228,11 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rb.gy/mu8val" group-title="港澳台",澳视葡文
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",澳门莲花
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/macault.png" group-title="港澳台",澳门莲花卫视
 http://anren.live/HK/BiIOU11uLA.m3u8?zgangd&&&$1920x1080
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/macault.png" group-title="港澳台",澳门莲花卫视
+http://2022.stream-link.org/playlist/macau_lotustv.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",莲花电影台
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",八度空间
 http://2022.stream-link.org/playlist/8tv.ts
@@ -1489,19 +1488,9 @@ http://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
 https://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
 
 #EXTINF:-1,tvg-id="好莱坞电影" tvg-name="好莱坞电影" tvg-logo="https://epg.112114.xyz/logo/好莱坞电影.png" group-title="港澳台",好莱坞电影
-http://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
+
 #EXTINF:-1,tvg-id="好莱坞电影" tvg-name="好莱坞电影" tvg-logo="https://epg.112114.xyz/logo/好莱坞电影.png" group-title="港澳台",好莱坞电影
-https://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
 
-#EXTINF:-1 tvg-id="6" tvg-name="" tvg-logo="港澳台",BOO驚悚台
-http://pull-l3-cny.douyincdn.com/live/6ea2b038f2ce633a65f0450895f6679e.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="" tvg-logo="港澳台",BOO驚悚台
-https://pull-l3-cny.douyincdn.com/live/6ea2b038f2ce633a65f0450895f6679e.m3u8
-
-#EXTINF:-1 tvg-id="6" tvg-name="" tvg-logo="港澳台",Asia N
-http://pull-l3-cny.douyincdn.com/live/2ce10c5078ec753f8f50f4c3897e8f76.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="" tvg-logo="港澳台",Asia N
-https://pull-l3-cny.douyincdn.com/live/2ce10c5078ec753f8f50f4c3897e8f76.m3u8
 
 #EXTINF:-1tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="港澳台", CGTN Documentary
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
@@ -2042,6 +2031,8 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="英语新闻",CNA新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/cna-news.png" group-title="英语新闻",CNA News
+http://2022.stream-link.org/playlist/cna_news.ts
 
 #EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="https://www.hualigs.cn/image/6155549e6b7a4.jpg" group-title="英语新闻",ABC News 
 http://2022.stream-link.org/playlist/abc_news.ts
@@ -2065,12 +2056,16 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61559410220b4.jpg" group-title="英语新闻",Cheddar Big News HD
 
-#EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="https://www.hualigs.cn/image/6155941083b2a.jpg" group-title="英语新闻",DW FHD
+#EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="https://www.hualigs.cn/image/6155941083b2a.jpg" group-title="英语新闻",DW  News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="https://www.hualigs.cn/image/6155941083b2a.jpg" group-title="英语新闻",DW  HD
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/dw-news.png" group-title="英语新闻",DW News
+http://2022.stream-link.org/playlist/dw_news.ts
 
-#EXTINF:-1 tvg-id="6183" tvg-name="Euronews" tvg-logo="https://www.hualigs.cn/image/615594101c9b1.jpg" group-title="英语新闻",Euronews HD
+#EXTINF:-1 tvg-id="6183" tvg-name="Euronews" tvg-logo="https://www.hualigs.cn/image/615594101c9b1.jpg" group-title="英语新闻",EURO News
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/euro-news.png" group-title="英语新闻",EURO News
+http://2022.stream-link.org/playlist/euro_news.ts
+
 #EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="https://www.hualigs.cn/image/6155567acfc1a.jpg" group-title="英语新闻",france24
 http://2022.stream-link.org/playlist/france_24e.ts
 
@@ -2118,8 +2113,8 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61554e11f2db6.jpg" group-title="英语新闻",NHKWorld 华语世界 HD
 
-#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="https://www.hualigs.cn/image/61554bc599811.jpg" group-title="英语新闻",SkyNews HD
-
+#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="https://www.hualigs.cn/image/61554bc599811.jpg" group-title="英语新闻",SkyNews
+http://2022.stream-link.org/playlist/sky_news.ts
 #EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="https://www.hualigs.cn/image/61554bc599811.jpg" group-title="英语新闻",SkyNews HD
 
 #EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="https://www.hualigs.cn/image/61554bc568623.jpg" group-title="英语新闻",Sky News Extra 1
@@ -2130,21 +2125,16 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6156929a12198.jpg" group-title="英语新闻",Sky Sports 24 HD
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英语新闻",VOA 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英语新闻",NBA TV FHD
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英语新闻",MTN HD
 http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英语新闻",ANN News
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/ann-news.png" group-title="英语新闻",ANN News
 http://2022.stream-link.org/playlist/ann_news.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英语新闻",Asianet News
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/asianet-news.png" group-title="英语新闻",Asianet News
 http://2022.stream-link.org/playlist/asianet_news.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英语新闻",EURO News
-http://2022.stream-link.org/playlist/euro_news.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英语新闻",GB News
+
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/gb-news.png" group-title="英语新闻",GB News
 http://2022.stream-link.org/playlist/gb_news.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英语新闻",Haber Turk
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/haber_turk.png" group-title="英语新闻",Haber Turk
 http://2022.stream-link.org/playlist/haber_turk.ts
 
 
