@@ -1,0 +1,37 @@
+#EXTM3 url="http://www.stream-link.org/2023-live.m3u"
+#EXTINF:-1 tvg-id="6069" tvg-name="東森新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ebc-news.png" group-title="台灣新聞",東森新聞
+http://2023.stream-link.org/playlist/ebc_news.flv
+#EXTINF:-1 tvg-id="6075" tvg-name="東森財經新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ebc-finance.png" group-title="台灣新聞",東森財經新聞
+http://2023.stream-link.org/playlist/ebc_finance.flv
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/cts-news.png" group-title="台灣新聞",華視新聞
+http://2023.stream-link.org/playlist/cts_news.flv
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/cti-news.png" group-title="台灣新聞",中天新聞
+http://2023.stream-link.org/playlist/cti_news.flv
+#EXTINF:-1 tvg-id="7176" tvg-name="中視新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ctv-news.png" group-title="台灣新聞",中視新聞
+http://2023.stream-link.org/playlist/ctv_news.flv
+#EXTINF:-1 tvg-id="6071" tvg-name="民視新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ftv-news.png" group-title="台灣新聞",民視新聞
+http://2023.stream-link.org/playlist/ftv_news.flv
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇國際新聞" tvg-logo="http://or00.stream-link.org/tv_logo/global-news.png" group-title="台灣新聞",寰宇國際新聞
+http://2023.stream-link.org/playlist/global_news.flv
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇台灣新聞" tvg-logo="http://or00.stream-link.org/tv_logo/global-news.png" group-title="台灣新聞",寰宇台灣新聞
+http://2023.stream-link.org/playlist/global_tw.flv
+#EXTINF:-1 tvg-id="6108" tvg-name="三立財經新聞" tvg-logo="http://or00.stream-link.org/tv_logo/set-finance.png" group-title="台灣新聞",三立財經新聞
+http://2023.stream-link.org/playlist/set_inews.flv
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新聞" tvg-logo="http://or00.stream-link.org/tv_logo/set-news.png" group-title="台灣新聞",三立新聞
+http://2023.stream-link.org/playlist/set_news.flv
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新聞+" tvg-logo="http://or00.stream-link.org/tv_logo/set-news+.png" group-title="台灣新聞",三立新聞+
+http://2023.stream-link.org/playlist/set_news+.flv
+#EXTINF:-1 tvg-id="6143" tvg-name="台視新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ttv-news.png" group-title="台灣新聞",台視新聞
+http://2023.stream-link.org/playlist/ttv_news.flv
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新聞" tvg-logo="http://or00.stream-link.org/tv_logo/tvbs-news.png" group-title="台灣新聞",TVBS新聞
+http://2023.stream-link.org/playlist/tvbs_news.flv
+#EXTINF:-1 tvg-id="6074" tvg-name="TVBS財經" tvg-logo="http://or00.stream-link.org/tv_logo/tvbs.png" group-title="台灣新聞",TVBS財經
+http://2023.stream-link.org/playlist/tvbs.flv
+#EXTINF:-1 tvg-id="6054" tvg-name="中天綜合台" tvg-logo="http://or00.stream-link.org/tv_logo/cti-zh.png" group-title="台灣綜藝",中天綜合台
+http://2023.stream-link.org/playlist/cti_zh.flv
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/cti-asia.png" group-title="台灣綜藝",中天亞洲台
+http://2023.stream-link.org/playlist/cti_asia.flv
+#EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/cts-zy.png" group-title="台灣綜藝",天才衝衝衝
+http://2023.stream-link.org/playlist/cts_zy.flv
+#EXTINF:-1 tvg-id="6069" tvg-name="東森yoyo" tvg-logo="http://or00.stream-link.org/tv_logo/ebc-yoyo.png" group-title="兒童節目",東森yoyo
+http://2023.stream-link.org/playlist/ebc_yoyo.flv
