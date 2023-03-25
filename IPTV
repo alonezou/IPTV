@@ -906,9 +906,9 @@ http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.flv
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
 http://117.148.187.59/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
-http://171.109.225.202:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
-http://106.52.110.94:5678/sxg.php?id=test1_4000
+
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
 
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
@@ -936,7 +936,7 @@ http://jyjxy.7766.org:8811/hls/34/index.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
 http://120.84.96.23:808/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
-http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
+
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
 http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
@@ -979,13 +979,13 @@ https://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
 
 
-#EXTINF:-1 tvg-id="TVB华丽台" tvg-name="TVB华丽台" tvg-logo="https://epg.112114.xyz/logo/TVB" group-title="港澳台",TVB华丽台
+#EXTINF:-1 tvg-id="TVB华丽台" tvg-name="TVB华丽台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB华丽台
 http://2022.stream-link.org/live/1684250157
-#EXTINF:-1 tvg-id="TVB华丽台" tvg-name="TVB华丽台" tvg-logo="https://epg.112114.xyz/logo/TVB" group-title="港澳台",TVB华丽台
+#EXTINF:-1 tvg-id="TVB华丽台" tvg-name="TVB华丽台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB华丽台
 
-#EXTINF:-1 tvg-id="TVB华丽台" tvg-name="TVB华丽台" tvg-logo="https://epg.112114.xyz/logo/TVB" group-title="港澳台",TVB华丽台
+#EXTINF:-1 tvg-id="TVB华丽台" tvg-name="TVB华丽台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB华丽台
 http://23.237.10.66:16410
-#EXTINF:-1 tvg-id="TVB华丽台" tvg-name="TVB华丽台" tvg-logo="https://epg.112114.xyz/logo/TVB" group-title="港澳台",TVB华丽台
+#EXTINF:-1 tvg-id="TVB华丽台" tvg-name="TVB华丽台" tvg-logo="hhttp://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.pngB" group-title="港澳台",TVB华丽台
 http://r.jdshipin.com/thuYX
 
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",TVB明珠台
@@ -1012,7 +1012,7 @@ http://114.84.76.27:7777/tsfile/live/1031_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" group-title="港澳台",TVB功夫台(粤语) HD
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" group-title="港澳台",TVB功夫(普通话) HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" group-title="港澳台",TVB功夫(普通话)
 https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 
 #EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="港澳台",TVB星河
