@@ -1242,7 +1242,7 @@ http://2022.stream-link.org/live/1753190198
 
 
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="港澳台",TVBS
-http://2023.stream-link.org/playlist/tvbs.flv
+http://2023.stream-link.org/live/1711676066
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="港澳台",TVBS
 
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="港澳台",TVBS
@@ -1265,7 +1265,7 @@ http://2023.stream-link.org/live/401131254
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS新闻台 
 
 #EXTINF:-1 tvg-id="6074" tvg-name="TVBS财经" tvg-logo="http://or00.stream-link.org/tv_logo/tvbs.png" group-title="台灣新聞",TVBS财经
-http://2023.stream-link.org/live/1711676066
+
 
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台" group-title="港澳台",中天新闻台
 http://2023.stream-link.org/live/1552993665
