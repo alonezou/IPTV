@@ -48,6 +48,8 @@ https://live1.fhtv.net.cn/shys/sd/live.m3u8
 http://pluslive.zhxww.net/channel1/sd/live.m3u8
 #EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/bltv.png",北仑电视台
 http://play-sh.quklive.com/live/1626327731714170.m3u8
+#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv1.png",宁波新闻综合频道高清NBTV-1
+http://183.129.242.178:3333/tsfile/live/1010_1.m3u8
 #EXTINF:-1 group-title="浙江 🇨🇳️",★★★★★浙江 🇨🇳️★★★★★
 https://upload.wikimedia.org/wikipedia/commons/transcoded/b/be/National_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg/National_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg.mp3
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="浙江 🇨🇳️",浙江卫视
@@ -96,6 +98,18 @@ http://www.372583307.top:4022/udp/233.50.201.175:5140
 http://www.372583307.top:4022/udp/233.50.201.176:5140
 #EXTINF:-1 group-title="浙江 🇨🇳️",杭州青少体育
 http://www.372583307.top:4022/udp/233.50.201.177:5140
+#EXTINF:-1 group-title="浙江 🇨🇳️",杭州综合
+http://live.cooltv.top/tv/hz.php?id=16
+#EXTINF:-1 group-title="浙江 🇨🇳️",杭州明珠
+http://live.cooltv.top/tv/hz.php?id=17
+#EXTINF:-1 group-title="浙江 🇨🇳️",杭州生活
+http://live.cooltv.top/tv/hz.php?id=18
+#EXTINF:-1 group-title="浙江 🇨🇳️",杭州影视
+http://live.cooltv.top/tv/hz.php?id=21
+#EXTINF:-1 group-title="浙江 🇨🇳️",杭州青少体育
+http://live.cooltv.top/tv/hz.php?id=20
+#EXTINF:-1 group-title="浙江 🇨🇳️",杭州导视
+http://live.cooltv.top/tv/hz.php?id=22
 #EXTINF:-1 group-title="央視 🇨🇳",★★★★★央視 🇨🇳 ★★★★★
 https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_Republic_of_China%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97%E6%AD%8C_%28%E6%BC%94%E5%A5%8F%E7%89%88%29.oga
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央視 🇨🇳",CCTV-1综合
@@ -137,7 +151,7 @@ http://live.cooltv.top/tv/aishang.php?id=cctv164k
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央視 🇨🇳",CCTV-17农村农业
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-speed="13MB/s" tvg-rez="3840x2160" group-title="央視 🇨🇳",CCTV4K
-http://cfss.cc/ds/bst.php?id=Cf-0
+http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-speed="13MB/s" tvg-rez="3840x2160" group-title="央視 🇨🇳",CCTV4K
 http://113.207.84.197:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-speed="36MB/s" tvg-rez="3840x2160" group-title="央視 🇨🇳",CCTV奥林匹克频道
@@ -265,19 +279,19 @@ https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="上海 🇨🇳️",东方卫视
 http://113.62.253.22/live.aishang.ctlcdn.com/00000110240242_1/playlist.m3u8?CONTENTID=00000110240242_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg",上海都市频道
-http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
+http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/yulehd/3000/01.m3u8?&HlsSubType=&encrypt=1
 #EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://epg.112114.xyz/logo/上视东方影视.png" group-title="上海 🇨🇳️",东方影视[百视通]
 https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",上海纪实
 https://live.v1.mk/api/bestv.php?id=jspdhd/4000000
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海 🇨🇳️",上海新闻综合
-http://183.207.255.188/live/program/live/xwzh/1300000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="上海 🇨🇳️",东方卫视
-http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/dongfanghd265/57/20191230/01.m3u8?&HlsSubType=&encrypt=1
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.pm/media/images/channel/2022/05/08/large/20220508004000234533_13.jpg",上海教育高清
-http://183.207.255.188/live/program/live/setv/1300000/mnf.m3u8
+https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png",上视外语频道
-http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=icshd8m/8000000
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png",生活时尚
 http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="上海 🇨🇳️",上海第一财经[百视通]
@@ -285,7 +299,7 @@ https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/东方财经.png",东方财经
 https://live.v1.mk/api/bestv.php?id=dfcjhd8m/8000000
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/新视觉",新视觉
-http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=xsjhd8m/8000000
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png",上视外语频道
 http://cfss.cc/ds/bst.php?id=Cf-55
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
@@ -295,13 +309,13 @@ http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png",上海第一财经
 http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",上海纪实
-http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=jspdhd/4000000
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/乐游.png",乐游
 http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/乐游.png",乐游
 http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/qjshd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png",哈哈炫动
-http://183.207.255.188/live/program/live/xdkt/1300000/mnf.m3u8
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=10
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png",都市剧场
 http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="上海 🇨🇳️",劲爆体育
@@ -309,7 +323,7 @@ http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png",MAX极速汽车
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227186/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png",七彩戏剧
-http://39.134.136.141:6610/000000001000/5000000011000031116/index.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3
+http://lu1.cc/itv/php/baitv.php?id=qcxj
 #EXTINF:-1 group-title="上海 🇨🇳️" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/七彩戏剧" tvg-id="七彩戏剧" tvg-name="七彩戏剧",七彩戏剧
 https://live.v1.mk/api/bestv.php?id=qcxjhd8m/8000000
 #EXTINF:-1 group-title="地方臺 🇨🇳️",★★★★★地方臺 🇨🇳️★★★★★
@@ -347,7 +361,7 @@ http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 #EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.112114.xyz/logo/求索纪录.png" group-title="地方臺 🇨🇳️",求索纪录高清
 http://39.134.136.141:6610/000000001000/2000000004000000010/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000010&livemode=1&stbId=3
 #EXTINF:-1 group-title="福建 🇨🇳️",福建乡村振兴公共
-http://39.135.55.72:6610/PLTV/88888888/224/3221227153/index.m3u8?servicetype=1
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227153/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建 🇨🇳️",福州新闻综合频道
 http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" group-title="卫视 🇨🇳️",海峡卫视
@@ -469,7 +483,7 @@ http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227190/index.m3u8
 #EXTINF:-1 group-title="福建 🇨🇳️",福建旅游
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227190/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建 🇨🇳️" tvg-logo="https://epg.pm/media/images/channel/2022/05/30/large/20220530233623778528_85.jpg",福建综合
-http://p2.weizan.cn/11844069/132114573749498521/live.m3u8
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227149/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-logo="../Channel/Logo/newtv中国功夫.jpg" group-title="NewTV🇨🇳️",NewTV东北热剧
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221226202/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/newtv中国功夫.jpg" group-title="NewTV🇨🇳️",NewTV中国功夫
@@ -518,184 +532,86 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225765/index.m3u8#http
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225768/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225620/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/newtv金牌综艺.jpg" group-title="NewTV🇨🇳️",NewTV金牌综艺
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/index.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225650/index.m3u8
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱经典
-http://39.135.126.226:6610/000000001001/6000000006000060630/1.m3u8?Contentid=6000000006000060630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱谍战
-http://39.135.126.226:6610/000000001001/6000000006000070630/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱都市
-http://39.135.126.226:6610/000000001001/6000000006000080630/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱家庭
-http://39.135.126.226:6610/000000001001/6000000006000090630/1.m3u8?Contentid=6000000006000090630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱青春
-http://39.135.126.226:6610/000000001001/6000000006000100630/1.m3u8?Contentid=6000000006000100630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱江湖
-http://39.135.126.226:6610/000000001001/6000000006000110630/1.m3u8?Contentid=6000000006000110630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱美食
-http://39.135.126.226:6610/000000001001/6000000006000120630/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱娱乐
-http://39.135.126.226:6610/000000001001/6000000006000130630/1.m3u8?Contentid=6000000006000130630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱时尚
-http://39.135.126.226:6610/000000001001/6000000006000140630/1.m3u8?Contentid=6000000006000140630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱历史
-http://39.135.126.226:6610/000000001001/6000000006000150630/1.m3u8?Contentid=6000000006000150630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱科学
-http://39.135.126.226:6610/000000001001/6000000006000160630/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱军武
-http://39.135.126.226:6610/000000001001/6000000006000170630/1.m3u8?Contentid=6000000006000170630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱幼教
-http://39.135.126.226:6610/000000001001/6000000006000180630/1.m3u8?Contentid=6000000006000180630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱猎奇
-http://39.135.126.226:6610/000000001001/6000000006000190630/1.m3u8?Contentid=6000000006000190630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱解密
-http://39.135.126.226:6610/000000001001/6000000006000200630/1.m3u8?Contentid=6000000006000200630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱世界
-http://39.135.126.226:6610/000000001001/6000000006000210630/1.m3u8?Contentid=6000000006000210630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱玩具
-http://39.135.126.226:6610/000000001001/6000000006000220630/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱电竞
-http://39.135.126.226:6610/000000001001/6000000006000230630/1.m3u8?Contentid=6000000006000230630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱赛车
-http://39.135.126.226:6610/000000001001/6000000006000240630/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱旅行
-http://39.135.126.226:6610/000000001001/6000000006000250630/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱怀旧
-http://39.135.126.226:6610/000000001001/6000000006000260630/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱奇谈
-http://39.135.126.226:6610/000000001001/6000000006000270630/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱动漫
-http://39.135.126.226:6610/000000001001/6000000006000280630/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱体育
-http://39.135.126.226:6610/000000001001/6000000006000290630/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱探索
-http://39.135.126.226:6610/000000001001/6000000006000300630/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱喜剧
-http://39.135.126.231:6610/000000001001/6000000006000010630/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱科幻
-http://39.135.126.231:6610/000000001001/6000000006000020630/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱院线
-http://39.135.126.231:6610/000000001001/6000000006000030630/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱浪漫
-http://39.135.126.231:6610/000000001001/6000000006000040630/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱悬疑
-http://39.135.126.231:6610/000000001001/6000000006000050630/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱经典
-http://39.135.126.231:6610/000000001001/6000000006000060630/1.m3u8?Contentid=6000000006000060630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱谍战
-http://39.135.126.231:6610/000000001001/6000000006000070630/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱都市
-http://39.135.126.231:6610/000000001001/6000000006000080630/1.m3u8?Contentid=6000000006000080630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱家庭
-http://39.135.126.231:6610/000000001001/6000000006000090630/1.m3u8?Contentid=6000000006000090630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱青春
-http://39.135.126.231:6610/000000001001/6000000006000100630/1.m3u8?Contentid=6000000006000100630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱江湖
-http://39.135.126.231:6610/000000001001/6000000006000110630/1.m3u8?Contentid=6000000006000110630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱美食
-http://39.135.126.231:6610/000000001001/6000000006000120630/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱娱乐
-http://39.135.126.231:6610/000000001001/6000000006000130630/1.m3u8?Contentid=6000000006000130630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱时尚
-http://39.135.126.231:6610/000000001001/6000000006000140630/1.m3u8?Contentid=6000000006000140630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱历史
-http://39.135.126.231:6610/000000001001/6000000006000150630/1.m3u8?Contentid=6000000006000150630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱科学
-http://39.135.126.231:6610/000000001001/6000000006000160630/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱军武
-http://39.135.126.231:6610/000000001001/6000000006000170630/1.m3u8?Contentid=6000000006000170630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱幼教
-http://39.135.126.231:6610/000000001001/6000000006000180630/1.m3u8?Contentid=6000000006000180630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱猎奇
-http://39.135.126.231:6610/000000001001/6000000006000190630/1.m3u8?Contentid=6000000006000190630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱解密
-http://39.135.126.231:6610/000000001001/6000000006000200630/1.m3u8?Contentid=6000000006000200630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱世界
-http://39.135.126.231:6610/000000001001/6000000006000210630/1.m3u8?Contentid=6000000006000210630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱玩具
-http://39.135.126.231:6610/000000001001/6000000006000220630/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱电竞
-http://39.135.126.231:6610/000000001001/6000000006000230630/1.m3u8?Contentid=6000000006000230630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱赛车
-http://39.135.126.231:6610/000000001001/6000000006000240630/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱旅行
-http://39.135.126.231:6610/000000001001/6000000006000250630/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱怀旧
-http://39.135.126.231:6610/000000001001/6000000006000260630/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱奇谈
-http://39.135.126.231:6610/000000001001/6000000006000270630/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱动漫
-http://39.135.126.231:6610/000000001001/6000000006000280630/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱体育
-http://39.135.126.231:6610/000000001001/6000000006000290630/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱探索
-http://39.135.126.231:6610/000000001001/6000000006000300630/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱喜剧
-http://39.135.126.226:6610/000000001001/6000000006000010630/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱科幻
-http://39.135.126.226:6610/000000001001/6000000006000020630/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱院线
-http://39.135.126.226:6610/000000001001/6000000006000030630/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱浪漫
-http://39.135.126.226:6610/000000001001/6000000006000040630/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1group-title="iHOT 🇨🇳️",IHOT爱悬疑
-http://39.135.126.226:6610/000000001001/6000000006000050630/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=2&channel-id=wasusyt
-#EXTINF:-1 group-title="iHOT 🇨🇳️",iHOT爱电竞
-http://iptva.cn/api/M3u8/Index?id=860&card=61769016159
-#EXTINF:-1 group-title="iHOT 🇨🇳️",iHOT爱院线
-http://iptva.cn/api/M3u8/Index?id=861&card=61769016159
-#EXTINF:-1 group-title="iHOT 🇨🇳️",iHOT爱科幻
-http://iptva.cn/api/M3u8/Index?id=862&card=61769016159
-#EXTINF:-1 group-title="iHOT 🇨🇳️",iHOT爱浪漫
-http://iptva.cn/api/M3u8/Index?id=863&card=61769016159
-#EXTINF:-1 group-title="iHOT 🇨🇳️",iHOT爱喜剧
-http://iptva.cn/api/M3u8/Index?id=864&card=61769016159
-#EXTINF:-1 group-title="iHOT 🇨🇳️",iHOT爱娱乐
-http://iptva.cn/api/M3u8/Index?id=865&card=61769016159
-#EXTINF:-1 group-title="iHOT 🇨🇳️",iHOT爱悬疑
-http://iptva.cn/api/M3u8/Index?id=866&card=61769016159
-#EXTINF:-1 group-title="iHOT 🇨🇳️",iHOT爱经典
-http://iptva.cn/api/M3u8/Index?id=867&card=61769016159
-#EXTINF:-1 group-title="iHOT 🇨🇳️",iHOT爱江湖
-http://iptva.cn/api/M3u8/Index?id=868&card=61769016159
-#EXTINF:-1 group-title="iHOT 🇨🇳️",iHOT爱赛车
-http://iptva.cn/api/M3u8/Index?id=869&card=61769016159
-#EXTINF:-1 group-title="iHOT 🇨🇳️",iHOT爱体育
-http://iptva.cn/api/M3u8/Index?id=870&card=61769016159
-#EXTINF:-1 group-title="iHOT 🇨🇳️",iHOT爱探索
-http://iptva.cn/api/M3u8/Index?id=871&card=61769016159
-#EXTINF:-1 group-title="iHOT 🇨🇳️",iHOT爱奇谈
-http://iptva.cn/api/M3u8/Index?id=872&card=61769016159
-#EXTINF:-1 group-title="iHOT 🇨🇳️",iHOT爱玩具
-http://iptva.cn/api/M3u8/Index?id=873&card=61769016159
-#EXTINF:-1 group-title="iHOT 🇨🇳️",iHOT爱世界
-http://iptva.cn/api/M3u8/Index?id=874&card=61769016159
-#EXTINF:-1 group-title="iHOT 🇨🇳️",iHOT爱怀旧
-http://iptva.cn/api/M3u8/Index?id=875&card=61769016159
-#EXTINF:-1 group-title="iHOT 🇨🇳️",iHOT爱旅行
-http://iptva.cn/api/M3u8/Index?id=876&card=61769016159
-#EXTINF:-1 group-title="iHOT 🇨🇳️",iHOT爱幼教
-http://iptva.cn/api/M3u8/Index?id=878&card=61769016159
-#EXTINF:-1 group-title="iHOT 🇨🇳️",iHOT爱解密
-http://iptva.cn/api/M3u8/Index?id=879&card=61769016159
-#EXTINF:-1 group-title="iHOT 🇨🇳️",iHOT爱谍战
-http://iptva.cn/api/M3u8/Index?id=880&card=61769016159
-#EXTINF:-1 group-title="iHOT 🇨🇳️",iHOT爱历史
-http://iptva.cn/api/M3u8/Index?id=881&card=61769016159
-#EXTINF:-1 group-title="iHOT 🇨🇳️",iHOT爱猎奇
-http://iptva.cn/api/M3u8/Index?id=882&card=61769016159
-#EXTINF:-1 group-title="iHOT 🇨🇳️",iHOT爱都市
-http://iptva.cn/api/M3u8/Index?id=883&card=61769016159
-#EXTINF:-1 group-title="iHOT 🇨🇳️",iHOT爱科学
-http://iptva.cn/api/M3u8/Index?id=884&card=61769016159
-#EXTINF:-1 group-title="iHOT 🇨🇳️",iHOT爱美食
-http://iptva.cn/api/M3u8/Index?id=885&card=61769016159
-#EXTINF:-1 group-title="iHOT 🇨🇳️",iHOT爱时尚
-http://iptva.cn/api/M3u8/Index?id=886&card=61769016159
-#EXTINF:-1 group-title="iHOT 🇨🇳️",iHOT爱青春
-http://iptva.cn/api/M3u8/Index?id=887&card=61769016159
-#EXTINF:-1 group-title="iHOT 🇨🇳️",iHOT爱家庭
-http://iptva.cn/api/M3u8/Index?id=888&card=61769016159
-#EXTINF:-1 group-title="iHOT 🇨🇳️",iHOT爱动漫
-http://iptva.cn/api/M3u8/Index?id=889&card=61769016159
+#EXTINF:-1 group-title="iHOT 🇨🇳️",精彩影视
+http://39.134.136.160:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
+#EXTINF:-1 group-title="iHOT 🇨🇳️",求索动物
+http://39.134.136.160:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
+#EXTINF:-1 group-title="iHOT 🇨🇳️",求索记录
+http://39.134.136.160:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
+#EXTINF:-1 group-title="iHOT 🇨🇳️",求索科学
+http://39.134.136.160:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
+#EXTINF:-1 group-title="iHOT 🇨🇳️",求索生活
+http://39.134.136.160:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
+#EXTINF:-1 group-title="iHOT 🇨🇳️",探索纪实
+http://39.134.136.160:6610/000000001000/5359008697329269813/index.m3u8?channel-id=wasusyt&Contentid=5359008697329269813&livemode=1&stbId=3
+#EXTINF:-1 group-title="iHOT 🇨🇳️",少儿动漫
+http://39.134.136.160:6610/000000001000/8145334647720731271/index.m3u8?channel-id=wasusyt&Contentid=8145334647720731271&livemode=1&stbId=3
+#EXTINF:-1 group-title="iHOT 🇨🇳️",风尚音乐
+http://39.134.136.160:6610/000000001000/5529729098703832176/index.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=3
+#EXTINF:-1 group-title="iHOT 🇨🇳️",精品剧场
+http://39.134.136.160:6610/000000001000/8230197131234717902/index.m3u8?channel-id=wasusyt&Contentid=8230197131234717902&livemode=1&stbId=3
+#EXTINF:-1 group-title="iHOT 🇨🇳️",欧美影院
+http://39.134.136.160:6610/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
+#EXTINF:-1 group-title="iHOT 🇨🇳️",亚洲影院
+http://39.134.136.160:6610/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="iHOT爱院线" tvg-logo="http://152.136.244.145/ai/ayx.png" group-title="iHOT 🇨🇳️",iHOT爱院线
+http://39.134.136.160:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="iHOT爱科幻" tvg-logo="http://152.136.244.145/ai/akh.png" group-title="iHOT 🇨🇳️",iHOT爱科幻
+http://39.134.136.160:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="iHOT爱浪漫" tvg-logo="http://152.136.244.145/ai/alm.png" group-title="iHOT 🇨🇳️",iHOT爱浪漫
+http://39.134.136.160:6610/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="iHOT爱喜剧" tvg-logo="http://152.136.244.145/ai/axj.png" group-title="iHOT 🇨🇳️",iHOT爱喜剧
+http://39.134.136.160:6610/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="iHOT爱娱乐" tvg-logo="http://152.136.244.145/ai/ayl.png" group-title="iHOT 🇨🇳️",iHOT爱娱乐
+http://39.134.136.160:6610/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="iHOT爱悬疑" tvg-logo="http://152.136.244.145/ai/axy.png" group-title="iHOT 🇨🇳️",iHOT爱悬疑
+http://39.134.136.160:6610/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="iHOT爱经典" tvg-logo="http://152.136.244.145/ai/ajd.png" group-title="iHOT 🇨🇳️",iHOT爱经典
+http://39.134.136.160:6610/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="iHOT爱江湖" tvg-logo="http://152.136.244.145/ai/ajh.png" group-title="iHOT 🇨🇳️",iHOT爱江湖
+http://39.134.136.160:6610/000000001000/6000000006000110630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000110630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="iHOT爱赛车" tvg-logo="http://152.136.244.145/ai/asc.png" group-title="iHOT 🇨🇳️",iHOT爱赛车
+http://39.134.136.160:6610/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="iHOT爱体育" tvg-logo="http://152.136.244.145/ai/aty.png" group-title="iHOT 🇨🇳️",iHOT爱体育
+http://39.134.136.160:6610/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="iHOT爱探索" tvg-logo="http://152.136.244.145/ai/ats.png" group-title="iHOT 🇨🇳️",iHOT爱探索
+http://39.134.136.160:6610/000000001000/6000000006000300630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="iHOT爱奇谈" tvg-logo="http://152.136.244.145/ai/aqt.png" group-title="iHOT 🇨🇳️",iHOT爱奇谈
+http://39.134.136.160:6610/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="iHOT爱玩具" tvg-logo="http://152.136.244.145/ai/awj.png" group-title="iHOT 🇨🇳️",iHOT爱玩具
+http://39.134.136.160:6610/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="iHOT爱世界" tvg-logo="http://152.136.244.145/ai/asj.png" group-title="iHOT 🇨🇳️",iHOT爱世界
+http://39.134.136.160:6610/000000001000/6000000006000210630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000210630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="iHOT爱怀旧" tvg-logo="http://152.136.244.145/ai/ahj.png" group-title="iHOT 🇨🇳️",iHOT爱怀旧
+http://39.134.136.160:6610/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="iHOT爱旅行" tvg-logo="http://152.136.244.145/ai/alx.png" group-title="iHOT 🇨🇳️",iHOT爱旅行
+http://39.134.136.160:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="iHOT爱极限" tvg-logo="http://152.136.244.145/ai/ajx.png" group-title="iHOT 🇨🇳️",iHOT爱极限
+http://39.134.136.160:6610/000000001000/6000000006000170630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000170630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="iHOT爱幼教" tvg-logo="http://152.136.244.145/ai/ayj.png" group-title="iHOT 🇨🇳️",iHOT爱幼教
+http://39.134.136.160:6610/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="iHOT爱解密" tvg-logo="http://152.136.244.145/ai/ajm.png" group-title="iHOT 🇨🇳️",iHOT爱解密
+http://39.134.136.160:6610/000000001000/6000000006000200630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000200630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="iHOT爱谍战" tvg-logo="http://152.136.244.145/ai/adz.png" group-title="iHOT 🇨🇳️",iHOT爱谍战
+http://39.134.136.160:6610/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="iHOT爱历史" tvg-logo="http://152.136.244.145/ai/als.png" group-title="iHOT 🇨🇳️",iHOT爱历史
+http://39.134.136.160:6610/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="iHOT爱猎奇" tvg-logo="http://152.136.244.145/ai/alq.png" group-title="iHOT 🇨🇳️",iHOT爱猎奇
+http://39.134.136.160:6610/000000001000/6000000006000190630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000190630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="iHOT爱都市" tvg-logo="http://152.136.244.145/ai/ads.png" group-title="iHOT 🇨🇳️",iHOT爱都市
+http://39.134.136.160:6610/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="iHOT爱科学" tvg-logo="http://152.136.244.145/ai/akx.png" group-title="iHOT 🇨🇳️",iHOT爱科学
+http://39.134.136.160:6610/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="iHOT爱美食" tvg-logo="http://152.136.244.145/ai/ams.png" group-title="iHOT 🇨🇳️",iHOT爱美食
+http://39.134.136.160:6610/000000001000/6000000006000120630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000120630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="iHOT爱时尚" tvg-logo="http://152.136.244.145/ai/ass.png" group-title="iHOT 🇨🇳️",iHOT爱时尚
+http://39.134.136.160:6610/000000001000/6000000006000140630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000140630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="iHOT爱青春" tvg-logo="http://152.136.244.145/ai/aqc.png" group-title="iHOT 🇨🇳️",iHOT爱青春
+http://39.134.136.160:6610/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="iHOT爱家庭" tvg-logo="http://152.136.244.145/ai/ajt.png" group-title="iHOT 🇨🇳️",iHOT爱家庭
+http://39.134.136.160:6610/000000001000/6000000006000090630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000090630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="iHOT爱动漫" tvg-logo="http://152.136.244.145/ai/alm.png" group-title="iHOT 🇨🇳️",iHOT爱动漫
+http://39.134.136.160:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-speed="1MB/s" group-title="港澳 🇭🇰️🇲🇴️",凤凰卫视中文台
 http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-speed="2MB/s" group-title="港澳 🇭🇰️🇲🇴️",凤凰卫视资讯台
@@ -721,47 +637,47 @@ https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳 🇭🇰️🇲🇴️",RTHK32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #EXTINF:-1 group-title="港澳 🇭🇰️🇲🇴️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",无线新闻
-https://pull-l3-cny.douyincdn.com/live/0bda6e264bbd69af50b1878435769f5f.flv
+https://pull-l3-cny.douyincdn.com/live/stream-1452172023043011035.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",★★★★★臺灣 🇹🇼️★★★★★
 https://upload.wikimedia.org/wikipedia/commons/transcoded/b/be/National_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg/National_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg.mp3
 #EXTINF:-1 tvg-id="6069" tvg-name="東森新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ebc-news.png" group-title="臺灣 🇹🇼️",東森新聞
-http://2023.stream-link.org/live/1793825065
+http://2023.stream-link.org/live/256467434
 #EXTINF:-1 tvg-id="6075" tvg-name="東森財經新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ebc-finance.png" group-title="臺灣 🇹🇼️",東森財經新聞
-http://2023.stream-link.org/live/249006034
+http://2023.stream-link.org/live/1562729921
 #EXTINF:-1 tvg-id="9999" tvg-name="tvgName" tvg-logo="http://or00.stream-link.org/tv_logo/cts-news.png" group-title="臺灣 🇹🇼️",華視新聞
-http://2023.stream-link.org/live/215730961
+http://2023.stream-link.org/live/924948281
 #EXTINF:-1 tvg-id="9999" tvg-name="tvgName" tvg-logo="http://or00.stream-link.org/tv_logo/cti-news.png" group-title="臺灣 🇹🇼️",中天新聞
-http://2023.stream-link.org/live/1552993665
+http://2023.stream-link.org/live/2072341054
 #EXTINF:-1 tvg-id="7176" tvg-name="中視新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ctv-news.png" group-title="臺灣 🇹🇼️",中視新聞
 http://2023.stream-link.org/live/926790469
 #EXTINF:-1 tvg-id="6071" tvg-name="民視新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ftv-news.png" group-title="臺灣 🇹🇼️",民視新聞
-http://2023.stream-link.org/live/1637144344
+http://2023.stream-link.org/live/1536981751
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇國際新聞" tvg-logo="http://or00.stream-link.org/tv_logo/global-news.png" group-title="臺灣 🇹🇼️",寰宇國際新聞
-http://2023.stream-link.org/live/1212532853
+http://2023.stream-link.org/live/187458082
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇臺灣 🇹🇼️" tvg-logo="http://or00.stream-link.org/tv_logo/global-news.png" group-title="臺灣 🇹🇼️",寰宇臺灣新聞
-http://2023.stream-link.org/live/1932250847
+http://2023.stream-link.org/live/1666533776
 #EXTINF:-1 tvg-id="6108" tvg-name="三立財經新聞" tvg-logo="http://or00.stream-link.org/tv_logo/set-finance.png" group-title="臺灣 🇹🇼️",三立財經新聞
-http://2023.stream-link.org/live/172551145
+http://2023.stream-link.org/live/2044630364
 #EXTINF:-1 tvg-id="6072" tvg-name="三立新聞" tvg-logo="http://or00.stream-link.org/tv_logo/set-news.png" group-title="臺灣 🇹🇼️",三立新聞
-http://2023.stream-link.org/live/1803236734
+http://2023.stream-link.org/live/779328641
 #EXTINF:-1 tvg-id="6072" tvg-name="三立新聞+" tvg-logo="http://or00.stream-link.org/tv_logo/set-news+.png" group-title="臺灣 🇹🇼️",三立新聞+
-http://2023.stream-link.org/live/1998094138
+http://2023.stream-link.org/live/2068259502
 #EXTINF:-1 tvg-id="6143" tvg-name="台視新聞" tvg-logo="http://or00.stream-link.org/tv_logo/ttv-news.png" group-title="臺灣 🇹🇼️",台視新聞
-http://2023.stream-link.org/live/966381653
+http://2023.stream-link.org/live/1660463420
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新聞" tvg-logo="http://or00.stream-link.org/tv_logo/tvbs-news.png" group-title="臺灣 🇹🇼️",TVBS新聞
-http://2023.stream-link.org/live/401131254
+http://2023.stream-link.org/live/2051588601
 #EXTINF:-1 tvg-id="6074" tvg-name="TVBS財經" tvg-logo="http://or00.stream-link.org/tv_logo/tvbs.png" group-title="臺灣 🇹🇼️",TVBS財經
-http://2023.stream-link.org/live/1711676066
+http://2023.stream-link.org/live/1767909787
 #EXTINF:-1 tvg-id="6054" tvg-name="中天綜合台" tvg-logo="http://or00.stream-link.org/tv_logo/cti-zh.png" group-title="臺灣 🇹🇼️",中天綜合台
-http://2023.stream-link.org/live/35397979
+http://2023.stream-link.org/live/661595652
 #EXTINF:-1 tvg-id="9999" tvg-name="tvgName" tvg-logo="http://or00.stream-link.org/tv_logo/cti-asia.png" group-title="臺灣 🇹🇼️",中天亞洲台
-http://2023.stream-link.org/live/1096161090
+http://2023.stream-link.org/live/1133505187
 #EXTINF:-1 tvg-id="6026" tvg-name="台視" tvg-logo="http://or00.stream-link.org/tv_logo/ttv.png" group-title="臺灣 🇹🇼️",台視
-http://2023.stream-link.org/live/280878870
+http://2023.stream-link.org/live/1558743392
 #EXTINF:-1 tvg-id="9999" tvg-name="tvgName" tvg-logo="http://or00.stream-link.org/tv_logo/cts-zy.png" group-title="臺灣 🇹🇼️",天才衝衝衝
-http://2023.stream-link.org/live/1311166619
+http://2023.stream-link.org/live/623892102
 #EXTINF:-1 tvg-id="6069" tvg-name="東森yoyo" tvg-logo="http://or00.stream-link.org/tv_logo/ebc-yoyo.png" group-title="臺灣 🇹🇼️",東森yoyo
-http://2023.stream-link.org/live/367293080
+http://2023.stream-link.org/live/638555913
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="臺灣 🇹🇼️",民视新闻
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="臺灣 🇹🇼️",民视新闻台
@@ -781,7 +697,7 @@ http://60.249.146.250:8511/playlist.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTV.png",民视无线台
 http://23.237.10.66:16334
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="https://www.lyngsat.com/logo/tv/aa/asia_travel_tv.png",亚洲旅游
-http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
+http://www.336699.live:1935/blocksix/litv-longturn17.stream/playlist.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",原住民
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",TLC旅游生活频道
@@ -807,7 +723,9 @@ http://210.209.3.1/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E.m3u8?fmt=x264_500K_
 #EXTINF:-1 group-title="臺灣 🇹🇼️",好消息電視台2
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 #EXTINF:-1 tvg-id="6047" tvg-name="三立臺灣台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="臺灣 🇹🇼️",三立臺灣台
-http://23.237.10.66:16342
+https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
+#EXTINF:-1,tvg-id="三立都会台" tvg-name="三立都会台" tvg-logo="https://epg.112114.xyz/logo/三立都会台.png" group-title="臺灣 🇹🇼️",三立都会台
+https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
 #EXTINF:-1 group-title="臺灣 🇹🇼️",东森新闻美国
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="臺灣 🇹🇼️",东森电影
@@ -827,7 +745,7 @@ http://23.237.10.66:16344
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png",HBO
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-name="民视无线台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTV.png",民视频道
-http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
+rtmp://119.81.124.89/sat/tv051
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png",中视新闻
 http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png",寰宇新闻
@@ -858,6 +776,12 @@ https://d1--cn-gotcha204.bilivideo.com/live-bvc/792068/live_372775317_46465575/i
 https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️",GoodTV 爱旅行台
 https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️",LIVE互動英語
+http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
+#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="臺灣 🇹🇼️",民视新闻台
+http://47.113.189.55/iptv/iptv.php?key=ced93979274d74470b525fc6372adbc9&id=50
+#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="臺灣 🇹🇼️",民视新闻台
+http://103.68.63.37:8278/ftvnew_taiwan/playlist.m3u8
 #EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder",★★★★★臺灣 🇹🇼️丨ladder★★★★★
 https://upload.wikimedia.org/wikipedia/commons/transcoded/b/be/National_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg/National_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg.mp3
 #EXTINF:-1 tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="臺灣 🇹🇼️丨ladder",壹电视新闻台
@@ -1067,7 +991,7 @@ http://mfe.cliptv.az/dash/BBC_World_News_SD.ism/playlist.mpd?checkedby:iptvcat.c
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png",BBCWorldNews
 http://185.236.229.31:9981/play/a072
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j449MD4.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",BBC News
-http://1292072398.rsc.cdn77.org/nBbuZ6Afbig5-u5-q-WDbg==,1678461874/1292072398/tracks-v1a1/mono.m3u8
+https://epg.pw/stream/66257d6873fca26b987ca41d21b80a0f2e6cbfc20b42b4421a2e7011ff6357c8.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",Al Jazeera HD
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_330.png",Channel NewsAsia
@@ -1195,7 +1119,7 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-name="TLC旅游生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tlc.png",TLC HD
-https://tv.googledrivelinks.com/live.php?c=TLC_HD_World&q=1200&e=.m3u8
+https://ancom.ga/fpt/travel-living/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="MET.ID" group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://static.epg.best/id/MetroTV.id.png",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg",BBC earth
@@ -1256,6 +1180,22 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️",越南MV
 http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
+#EXTINF:-1 group-title="Global 🇺🇸🇬🇧🇶🇦️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png",CNN
+https://ancom.ga/fpt/cnn/bitrate_5000.m3u8
+#EXTINF:-1 tvg-id="discoveryasiahd" tvg-name="Discovery Asia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",Discovery Asia
+https://ancom.ga/fpt/discovery-asia/bitrate_5000.m3u8
+#EXTINF:-1 tvg-id="afnhd" tvg-name="Asian Food Network" tvg-logo="https://i.imgur.com/B8zA2gc.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",Asian Food Network
+http://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/kB91Qgx/HGTV.png" group-title="Global 🇺🇸🇬🇧🇶🇦️", HGTV
+https://code.vthanhtivi.pw/getlink/tv360/99/2.m3u8
+#EXTINF:-1 tvg-id="bbcearth" tvg-name="BBC Earth" tvg-logo="https://i.ibb.co/bWMMncB/bbcearth-cc.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",BBC Earth
+https://ancom.ga/fpt/bbc-earth/bitrate_5000.m3u8
+#EXTINF:-1 tvg-id="bbclifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://i.imgur.com/bn7ha63.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",BBC Lifestyle
+https://ancom.ga/fpt/bbc-lifestyle/bitrate_5000.m3u8
+#EXTINF:-1 tvg-id="bbcworldnews" tvg-name="BBC News" tvg-logo="https://i.ibb.co/j5jJptz/bbcworldnews-cc.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",BBC News
+https://ancom.ga/fpt/bbc-news/bitrate_5000.m3u8
+#EXTINF:-1 tvg-id="cnbc" tvg-name="CNBC" tvg-logo="https://i.imgur.com/EwLawKc.png" group-title="Global 🇺🇸🇬🇧🇶🇦️",CNBC
+https://ancom.ga/fpt/cnbc/bitrate_2500.m3u8
 #EXTINF:-1 group-title="網絡廣播 🇨🇳️",★★★★★網絡廣播 🇨🇳️★★★★★
 https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_Republic_of_China%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97%E6%AD%8C_%28%E6%BC%94%E5%A5%8F%E7%89%88%29.oga
 #EXTINF:-1 group-title="網絡廣播 🇨🇳️",China Plus Radio
