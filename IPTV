@@ -2334,6 +2334,8 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 #EXTINF:-1 tvg-name="LOVE NATURE 4K" tvg-logo="https://iptv-pro.github.io/logo/LOVE%20NATURE.png" group-title="4K频道",LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
+
+
 #EXTINF:-1 tvg-name="MUZZIK-ZZ4000-4K" tvg-logo="https://iptv-pro.github.io/logo/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA4K.png" group-title="4K频道",MUZZIK-ZZ4000-4K
 http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
 
