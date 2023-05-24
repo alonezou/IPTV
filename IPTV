@@ -1448,18 +1448,22 @@ http://baidu.douyincdn.freetvtv.com/hbohits/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",瞬间看地球
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",ELTA体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",纬来体育
 http://awei.beimua.com/yes.php?id=8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",ELTA体育1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",博斯网球
 http://awei.beimua.com/yes.php?id=7
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",ELTA体育1
 http://awei.beimua.com/yes.php?id=21
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",ELTA体育1
 http://awei.beimua.com/iptv.php?id=76
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",ELTA体育2
+http://awei.beimua.com/yes.php?id=6
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",ELEVEN体育1台
 http://awei.beimua.com/yes.php?id=9
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",ELEVEN体育2台
 http://awei.beimua.com/yes.php?id=10
+
+
 
 
 
