@@ -834,7 +834,8 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",香港开电视
 
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳台",香港开电视资讯台
-http://sc2022.stream-link.org/list.php?id=h012
+http://sc2022.stream-link.org/list.php?id=h011
+
 
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
 http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
@@ -845,7 +846,7 @@ http://r.jdshipin.com/0Rp07
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
 http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
-
+http://sc2022.stream-link.org/list.php?id=h013
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
 
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
@@ -862,14 +863,14 @@ http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
 http://117.148.187.59/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
-
+http://sc2022.stream-link.org/list.php?id=h014
 
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
 https://17186.eu.org/php/phtv/fhhk.flv
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
-
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
 http://120.84.96.87:808/hls/81/index.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
+http://sc2022.stream-link.org/list.php?id=h015
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
 
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
@@ -977,8 +978,10 @@ https://sc2022.stream-link.org/list.php?id=h009
 #EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="港澳台",有线财经资讯台
 http://awei.beimua.com/yes.php?id=16
 
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻 
-https://sc2022.stream-link.org/list.php?id=h004
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻
+http://sc2022.stream-link.org/list.php?id=h004
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻
+http://sc2022.stream-link.org/list.php?id=h008
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻 
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxNR4FqM3EgPoN7yqNVDCIzY/ts
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻4K
@@ -997,6 +1000,8 @@ http://awei.beimua.com/yes.php?id=13
 
 #EXTINF:-1 tvg-logo="https://s3.jpg.cm/2021/09/14/IsQ2QS.png" group-title="港澳台",无线新闻
 
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://www.hualigs.cn/image/61569dc0de070.jpg" group-title="港澳台",无线财经资讯台
+http://sc2022.stream-link.org/list.php?id=h009
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://www.hualigs.cn/image/61569dc0de070.jpg" group-title="港澳台",无线财经资讯台
 http://sc2022.stream-link.org/list.php?id=h005
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://www.hualigs.cn/image/61569dc0de070.jpg" group-title="港澳台",无线财经资讯台
@@ -1049,9 +1054,9 @@ http://radius.8866.org:800/hls/85/index.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="https://rb.gy/po9v07" group-title="港澳台",ViuTV 6 
 
 #EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="港澳台",香港国际财经台
-
-#EXTINF:-1 tvg-id="76" tvg-name="香港国际财经台" tvg-logo="http://or00.stream-link.org/tv_logo/hkibc.png" group-title="港澳台",香港国际财经台
 http://sc2022.stream-link.org/list.php?id=h011
+#EXTINF:-1 tvg-id="76" tvg-name="香港国际财经台" tvg-logo="http://or00.stream-link.org/tv_logo/hkibc.png" group-title="港澳台",香港国际财经台
+http://sc2022.stream-link.org/list.php?id=h012
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/61569ef247820.jpg" group-title="港澳台",RTHK31 
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
@@ -1075,8 +1080,8 @@ http://sc2022.stream-link.org/list.php?id=h007
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.hualigs.cn/image/6155c10d61c72.jpg" group-title="港澳台",RTHK33 
 http://radius.8866.org:800/hls/91/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",Now直播台
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",Now新闻
+http://sc2022.stream-link.org/list.php?id=c001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",Now财经
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",now精選體育
@@ -1110,7 +1115,9 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rb.gy/opr7sq" group-title="港澳台",创世电视
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",now爆谷星影台
-
+http://sc2022.stream-link.org/list.php?id=c002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",now华剧台
+http://sc2022.stream-link.org/list.php?id=c003
 #EXTINF:-1 tvg-id="6167" tvg-name="HGTV居家乐活" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HGTV.png" group-title="港澳台",HGTV HD
 
 #EXTINF:-1 tvg-id="6184" tvg-name="Nickelodeon" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="港澳台",Nickelodeon
@@ -1153,11 +1160,11 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/macault.png" group-title="港澳台",澳门莲花卫视
 http://anren.live/HK/BiIOU11uLA.m3u8?zgangd&&&$1920x1080
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/macault.png" group-title="港澳台",澳门莲花卫视
-
+http://sc2022.stream-link.org/list.php?id=h016
 
 
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="港澳台",TVBS
-https://sc2022.stream-link.org/list.php?id=t014
+http://sc2022.stream-link.org/list.php?id=t014
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="港澳台",TVBS
 http://awei.beimua.com/yes.php?id=4
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="港澳台",TVBS
@@ -1170,7 +1177,7 @@ http://sc2022.stream-link.org/list.php?id=t014
 
 
 #EXTINF:-1 tvg-id="TVBS亚洲台" tvg-name="TVBS亚洲台" tvg-logo="https://epg.112114.xyz/logo/TVBS" group-title="港澳台",TVBS亚洲台
-
+http://sc2022.stream-link.org/list.php?id=t016
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",TVBS欢乐
 
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="港澳台",TVBS新闻台
@@ -1201,9 +1208,6 @@ https://sc2022.stream-link.org/list.php?id=t015
 #EXTINF:-1 tvg-id="9999" tvg-name="noepg" tvg-logo="http://or00.stream-link.org/tv_logo/cti-asia.png" group-title="港澳台",中天亞洲台
 http://sc2022.stream-link.org/list.php?id=t016
 
-
-#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港澳台",寰宇新闻台国际台
-https://sc2022.stream-link.org/list.php?id=t007
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港澳台",寰宇新闻台国际台
 http://sc2022.stream-link.org/list.php?id=t007
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港澳台",寰宇新闻台台湾台
