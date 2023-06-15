@@ -950,7 +950,7 @@ http://awei.beimua.com/yes.php?id=17
 #EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="港澳台",TVB星河
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATzBMAV6h6g/ts
 #EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="港澳台",TVB星河
-
+http://sc2022.stream-link.org/list.php?id=c002
 #EXTINF:-1 tvg-id="129" tvg-name="TVB经典台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="港澳台",TVB经典
 
 #EXTINF:-1 tvg-id="129" tvg-name="TVB经典台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="港澳台",TVB经典 
@@ -1094,7 +1094,7 @@ http://sc2022.stream-link.org/list.php?id=c001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://liveq.tv/liveq.tv/img/hk-Now%E7%9B%B4%E6%92%AD%E5%8F%B0.jpg" group-title="港澳台",Now直播331台 HD
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://liveq.tv/liveq.tv/img/hk-Now%E7%9B%B4%E6%92%AD%E5%8F%B0.jpg" group-title="港澳台",Now新闻332台 FHD
-
+http://sc2022.stream-link.org/list.php?id=c001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rb.gy/8cpcyd" group-title="港澳台",Now Sports Prime HD
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rb.gy/8cpcyd" group-title="港澳台",Now Sports Prime HD
@@ -1117,7 +1117,7 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rb.gy/opr7sq" group-title="港澳台",创世电视
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",now爆谷星影台
-http://sc2022.stream-link.org/list.php?id=c002
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",now华剧台
 http://sc2022.stream-link.org/list.php?id=c003
 #EXTINF:-1 tvg-id="6167" tvg-name="HGTV居家乐活" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HGTV.png" group-title="港澳台",HGTV HD
