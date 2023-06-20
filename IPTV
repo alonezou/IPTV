@@ -895,7 +895,7 @@ https://cntv.sbs/fs?auth=230612&id=fhhk
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-20c60f9d-309f-4705-8f2f-5d0db8ee7fbc.m3u8
 
 #EXTINF:-1,tvg-id="V音乐台" tvg-name="V音乐台" tvg-logo="https://epg.112114.xyz/logo/V音乐台.png" group-title="港澳台",V音乐台
-http://pull-l3-cny.douyincdn.com/live/I8NmAJdx55508k02.flv
+
 
 #EXTINF:-1 tvg-name="凤凰电影" group-title="港澳台", 凤凰电影
 
@@ -937,9 +937,9 @@ http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=2
 #EXTINF:-1 tvg-id="TVB华丽台" tvg-name="TVB华丽台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB华丽台
 
 #EXTINF:-1 tvg-id="TVB华丽台" tvg-name="TVB华丽台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB华丽台
-http://23.237.10.66:16410
+
 #EXTINF:-1 tvg-id="TVB华丽台" tvg-name="TVB华丽台" tvg-logo="hhttp://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.pngB" group-title="港澳台",TVB华丽台
-http://r.jdshipin.com/thuYX
+
 
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠台
 http://radius.8866.org:800/hls/84/index.m3u8
