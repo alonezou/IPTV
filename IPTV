@@ -803,6 +803,16 @@ http://v2.91kds.cn/b9/zjnbtv.m3u8?fmt=hls&id=zjnbtv4&auth=rinimabi
 http://v2.91kds.cn/b9/zjnbtv.m3u8?fmt=hls&id=zjnbtv5&auth=rinimabi
 #EXTINF:-1 group-title="浙江" tvg-logo="https://zhanghongguang.github.io/Logo/yytv.png",余姚新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv1.png",NBTV-1
+http://183.129.242.178:3333/tsfile/live/1010_1.m3u8
+#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv.png",NBTV-2
+http://183.129.242.178:3333/tsfile/live/1011_1.m3u8
+#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv.png",NBTV-3
+http://183.129.242.178:3333/tsfile/live/1012_1.m3u8
+#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv4.png",NBTV-4
+http://183.129.242.178:3333/tsfile/live/1013_1.m3u8
+#EXTINF:-1 group-title="寧波 🇨🇳️" tvg-logo="https://zhanghongguang.github.io/Logo/nbtv5.png",NBTV-5
+http://183.129.242.178:3333/tsfile/live/1014_1.m3u8
 #EXTINF:-1 group-title="浙江" tvg-logo="https://zhanghongguang.github.io/Logo/yztv.png",鄞州1
 http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090843.m3u8
 #EXTINF:-1 group-title="浙江" tvg-logo="https://zhanghongguang.github.io/Logo/yztv.png",鄞州2
