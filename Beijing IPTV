@@ -18,11 +18,11 @@ http://124.65.3.143:20000/rtp/239.3.1.115:8000
 #EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="其他",BRTV卡酷少儿[高清]
 http://124.65.3.143:20000/rtp/239.3.1.189:8000
 #EXTINF:-1,tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://epg.112114.xyz/logo/冬奥纪实.png" group-title="其他",BRTV冬奥纪实[高清]
-# http://124.65.3.143:20000/rtp/239.3.1.243:8000
+http://124.65.3.143:20000/rtp/239.3.1.243:8000
 #EXTINF:-1,tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://epg.112114.xyz/logo/冬奥纪实.png" group-title="其他",BRTV冬奥纪实[超清HDR]
-# http://124.65.3.143:20000/rtp/239.3.1.120:8000
+ http://124.65.3.143:20000/rtp/239.3.1.120:8000
 #EXTINF:-1,tvg-id="冬奥纪实" tvg-name="冬奥纪实" tvg-logo="https://epg.112114.xyz/logo/冬奥纪实.png" group-title="其他",BRTV冬奥纪实[超清]
-# http://124.65.3.143:20000/rtp/239.3.1.121:8000
+http://124.65.3.143:20000/rtp/239.3.1.121:8000
 #EXTINF:-1,tvg-id="BRTV体育休闲[超清]" tvg-name="BRTV体育休闲[超清]" tvg-logo="https://epg.112114.xyz/logo/BRTV体育休闲.png" group-title="其他",BRTV体育休闲[超清]
 http://124.65.3.143:20000/rtp/239.3.1.243:8000
 #EXTINF:-1,tvg-id="BTV国际频道" tvg-name="BTV国际频道" tvg-logo="https://epg.112114.xyz/logo/BTV国际.png" group-title="北京",BTV国际频道
@@ -60,19 +60,19 @@ http://124.65.3.143:20000/rtp/239.3.1.65:8132
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV-15 音乐[高清]
 http://124.65.3.143:20000/rtp/239.3.1.153:8136
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16 奥林匹克[超清HDR]
-# http://124.65.3.143:20000/rtp/239.3.1.183:8001
+http://124.65.3.143:20000/rtp/239.3.1.183:8001
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16 奥林匹克[高清]
-# http://124.65.3.143:20000/rtp/239.3.1.184:8001
+http://124.65.3.143:20000/rtp/239.3.1.184:8001
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16 奥林匹克[高清][非官方]
-# http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
+http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17 农业农村[高清]
 http://124.65.3.143:20000/rtp/239.3.1.151:8144
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV 4K超高清[超清HDR][非官方]
-# http://192.168.123.1:88/4k.php?a=0219&b=603
+http://192.168.123.1:88/4k.php?a=0219&b=603
 #EXTINF:-1,tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png" group-title="香港",凤凰卫视中文[非官方]
-# https://pull-l3-cny.douyincdn.com/live/YesLiveTV-2217df8a-46d8-4fa8-b040-5abdd96d91ce.flv
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-2217df8a-46d8-4fa8-b040-5abdd96d91ce.flv
 #EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png" group-title="香港",凤凰卫视资讯[非官方]
-# https://pull-l3-cny.douyincdn.com/live/YesLiveTV-63134406-69d7-436b-986a-9bd696d4e2cb.flv
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-63134406-69d7-436b-986a-9bd696d4e2cb.flv
 #EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="其他",爱上4K[超清]
 http://124.65.3.143:20000/rtp/239.3.1.236:2000
 #EXTINF:-1,tvg-id="4K综艺" tvg-name="4K综艺" tvg-logo="https://epg.112114.xyz/logo/4K综艺.png" group-title="其他",4K超清[超清]
@@ -80,7 +80,7 @@ http://124.65.3.143:20000/rtp/239.3.1.249:8001
 #EXTINF:-1,tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://epg.112114.xyz/logo/北京淘电影.png" group-title="其他",淘电影[高清]
 http://124.65.3.143:20000/rtp/239.3.1.250:8001
 #EXTINF:-1,tvg-id="每日影院" tvg-name="每日影院" tvg-logo="https://epg.112114.xyz/logo/每日影院.png" group-title="其他",每日影院[高清]
-# http://124.65.3.143:20000/rtp/239.3.1.111:8001
+http://124.65.3.143:20000/rtp/239.3.1.111:8001
 #EXTINF:-1,tvg-id="NOW爆谷星影台" tvg-name="NOW爆谷星影台" tvg-logo="https://epg.112114.xyz/logo/NOW爆谷星影台.png" group-title="其他",星影
 http://124.65.3.143:20000/rtp/239.3.1.94:4120
 #EXTINF:-1,tvg-id="动作影院" tvg-name="动作影院" tvg-logo="https://epg.112114.xyz/logo/动作影院.png" group-title="其他",动作影院
@@ -100,17 +100,17 @@ http://124.65.3.143:20000/rtp/239.3.1.212:8060
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="其他",金鹰纪实[高清]
 http://124.65.3.143:20000/rtp/239.3.1.58:8156
 #EXTINF:-1,tvg-id="浙江风尚生活" tvg-name="浙江风尚生活" tvg-logo="https://epg.112114.xyz/logo/浙江风尚生活.png" group-title="其他",风尚生活[高清]
-# http://124.65.3.143:20000/rtp/239.3.1.114:8001
+http://124.65.3.143:20000/rtp/239.3.1.114:8001
 #EXTINF:-1,tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://epg.112114.xyz/logo/世界地理.png" group-title="其他",地理
 http://124.65.3.143:20000/rtp/239.3.1.71:4120
 #EXTINF:-1,tvg-id="北京淘剧场" tvg-name="北京淘剧场" tvg-logo="https://epg.112114.xyz/logo/北京淘剧场.png" group-title="其他",淘剧场[高清]
 http://124.65.3.143:20000/rtp/239.3.1.95:8001
 #EXTINF:-1,tvg-id="幸福剧场[高清]" tvg-name="幸福剧场[高清]" tvg-logo="https://epg.112114.xyz/logo/幸福剧场.png" group-title="其他",幸福剧场[高清]
-# http://124.65.3.143:20000/rtp/239.3.1.112:8001
+ http://124.65.3.143:20000/rtp/239.3.1.112:8001
 #EXTINF:-1,tvg-id="北京淘娱乐" tvg-name="北京淘娱乐" tvg-logo="https://epg.112114.xyz/logo/北京淘娱乐.png" group-title="其他",淘娱乐[高清]
 http://124.65.3.143:20000/rtp/239.3.1.100:8001
 #EXTINF:-1,tvg-id="幸福娱乐" tvg-name="幸福娱乐" tvg-logo="https://epg.112114.xyz/logo/幸福娱乐.png" group-title="其他",幸福娱乐[高清]
-# http://124.65.3.143:20000/rtp/239.3.1.113:8001
+ http://124.65.3.143:20000/rtp/239.3.1.113:8001
 #EXTINF:-1,tvg-id="北京淘BABY" tvg-name="北京淘BABY" tvg-logo="https://epg.112114.xyz/logo/北京淘BABY.png" group-title="其他",淘Baby[高清]
 http://124.65.3.143:20000/rtp/239.3.1.238:8001
 #EXTINF:-1,tvg-id="萌宠TV[高清]" tvg-name="萌宠TV[高清]" tvg-logo="https://epg.112114.xyz/logo/萌宠TV.png" group-title="其他",萌宠TV[高清]
