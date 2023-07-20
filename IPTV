@@ -246,6 +246,8 @@ http://51.210.199.19/hls/stream.m3u8
 http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
 #EXTINF:-1,tvg-id="1950电影" tvg-name="1950电影" tvg-logo="" group-title="其他",1950电影
 http://120.220.196.43/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+#EXTINF:-1,tvg-id="1950电影" tvg-name="1950电影" tvg-logo="" group-title="其他",1950电影
+http://img.ye23.win/s.php?u=10DPD19C
 
 
 #EXTINF:-1 ---------------------------------------分割线---------------------------------------------------------------
